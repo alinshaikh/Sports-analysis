@@ -1,0 +1,1001 @@
+record_id,season,date,team,opponent,player,runs,balls,fours,sixes,strike_rate,wickets,overs_bowled,economy
+1,2021,2022-07-02,Mumbai Indians,Rajasthan Royals,Suryakumar Yadav,23,13,1,1,176.92,0,1.1,5.91
+2,2022,2022-05-13,Gujarat Titans,Mumbai Indians,Rashid Khan,83,50,8,6,166.0,0,2.8,11.35
+3,2021,2022-10-22,Royal Challengers Bangalore,Punjab Kings,Glenn Maxwell,6,14,1,0,42.86,0,1.3,11.64
+4,2025,2023-10-28,Delhi Capitals,Mumbai Indians,Anrich Nortje,15,39,3,0,38.46,0,3.5,9.9
+5,2023,2021-08-21,Lucknow Super Giants,Kolkata Knight Riders,Ravi Bishnoi,10,7,2,0,142.86,3,3.6,11.79
+6,2024,2023-04-18,Delhi Capitals,Gujarat Titans,Anrich Nortje,11,15,2,0,73.33,0,3.1,10.39
+7,2021,2025-05-03,Lucknow Super Giants,Royal Challengers Bangalore,Krunal Pandya,10,20,2,0,50.0,0,3.8,10.43
+8,2022,2021-06-05,Rajasthan Royals,Mumbai Indians,Jos Buttler,40,56,6,2,71.43,0,3.7,9.51
+9,2023,2024-11-07,Kolkata Knight Riders,Gujarat Titans,Sunil Narine,18,34,4,0,52.94,0,2.7,7.2
+10,2025,2022-06-24,Sunrisers Hyderabad,Punjab Kings,Heinrich Klaasen,16,13,4,0,123.08,1,3.6,6.36
+11,2022,2023-05-22,Sunrisers Hyderabad,Chennai Super Kings,Aiden Markram,59,43,8,4,137.21,3,3.6,5.29
+12,2021,2023-02-26,Gujarat Titans,Delhi Capitals,Mohammed Shami,9,12,2,0,75.0,0,3.9,11.86
+13,2023,2021-11-04,Gujarat Titans,Royal Challengers Bangalore,Rashid Khan,80,60,4,3,133.33,0,3.3,9.3
+14,2025,2021-05-10,Mumbai Indians,Sunrisers Hyderabad,Hardik Pandya,11,12,2,0,91.67,0,3.6,12.4
+15,2021,2021-12-14,Punjab Kings,Chennai Super Kings,Arshdeep Singh,21,13,5,0,161.54,0,3.6,8.42
+16,2022,2022-12-30,Gujarat Titans,Kolkata Knight Riders,Mohammed Shami,42,30,10,0,140.0,0,2.6,6.12
+17,2022,2024-07-18,Chennai Super Kings,Sunrisers Hyderabad,Ruturaj Gaikwad,29,40,7,0,72.5,0,3.1,5.65
+18,2021,2024-02-17,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,17,20,4,0,85.0,0,1.4,12.31
+19,2025,2023-11-25,Lucknow Super Giants,Punjab Kings,Nicholas Pooran,52,56,3,1,92.86,0,2.3,8.42
+20,2024,2023-07-04,Mumbai Indians,Royal Challengers Bangalore,Rohit Sharma,43,51,1,3,84.31,0,2.6,6.27
+21,2022,2021-09-02,Delhi Capitals,Gujarat Titans,David Warner,12,33,0,0,36.36,2,3.8,11.65
+22,2022,2022-06-12,Sunrisers Hyderabad,Gujarat Titans,Aiden Markram,51,60,0,2,85.0,0,4.0,7.22
+23,2024,2025-05-06,Delhi Capitals,Punjab Kings,Anrich Nortje,71,55,10,5,129.09,0,1.9,12.56
+24,2025,2023-01-03,Gujarat Titans,Mumbai Indians,Mohammed Shami,1,8,0,0,12.5,0,3.6,6.4
+25,2025,2024-08-01,Chennai Super Kings,Kolkata Knight Riders,Ruturaj Gaikwad,7,9,1,0,77.78,2,2.7,9.6
+26,2021,2024-12-07,Lucknow Super Giants,Chennai Super Kings,Marcus Stoinis,72,42,8,5,171.43,2,1.6,10.64
+27,2022,2025-01-05,Delhi Capitals,Punjab Kings,David Warner,38,46,7,1,82.61,2,3.8,5.27
+28,2025,2024-04-06,Lucknow Super Giants,Chennai Super Kings,KL Rahul,32,18,4,2,177.78,2,3.6,11.88
+29,2023,2024-04-17,Delhi Capitals,Royal Challengers Bangalore,Prithvi Shaw,38,50,9,0,76.0,0,2.7,12.28
+30,2021,2021-11-06,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,70,52,2,4,134.62,0,1.6,7.81
+31,2023,2021-07-14,Gujarat Titans,Punjab Kings,David Miller,20,10,5,0,200.0,0,2.0,6.19
+32,2023,2025-03-16,Royal Challengers Bangalore,Gujarat Titans,Dinesh Karthik,1,32,0,0,3.12,2,3.1,6.33
+33,2021,2023-08-29,Rajasthan Royals,Lucknow Super Giants,Jos Buttler,1,13,0,0,7.69,1,3.4,11.74
+34,2023,2021-10-28,Kolkata Knight Riders,Delhi Capitals,Varun Chakravarthy,49,27,8,2,181.48,3,3.2,12.24
+35,2022,2021-05-21,Royal Challengers Bangalore,Kolkata Knight Riders,Rajat Patidar,21,16,5,0,131.25,0,3.4,6.02
+36,2021,2023-10-30,Punjab Kings,Kolkata Knight Riders,Liam Livingstone,19,27,3,1,70.37,0,1.6,7.69
+37,2021,2024-02-08,Delhi Capitals,Sunrisers Hyderabad,Anrich Nortje,43,30,8,1,143.33,2,1.3,12.58
+38,2022,2021-11-09,Lucknow Super Giants,Delhi Capitals,KL Rahul,55,43,5,5,127.91,0,4.0,6.08
+39,2025,2025-03-22,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,0,32,0,0,0.0,0,1.2,10.25
+40,2023,2021-12-12,Lucknow Super Giants,Rajasthan Royals,Ravi Bishnoi,38,51,8,1,74.51,0,2.0,10.5
+41,2025,2024-12-22,Royal Challengers Bangalore,Delhi Capitals,Rajat Patidar,48,65,10,1,73.85,0,1.9,9.36
+42,2021,2023-08-29,Delhi Capitals,Rajasthan Royals,David Warner,74,55,9,5,134.55,0,2.3,6.82
+43,2024,2024-02-20,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,81,47,9,5,172.34,0,3.9,6.99
+44,2023,2021-05-21,Kolkata Knight Riders,Delhi Capitals,Rinku Singh,3,7,0,0,42.86,0,3.7,9.58
+45,2024,2022-01-28,Punjab Kings,Sunrisers Hyderabad,Liam Livingstone,88,46,0,1,191.3,1,1.7,11.31
+46,2025,2022-08-24,Punjab Kings,Mumbai Indians,Arshdeep Singh,15,63,3,0,23.81,1,3.0,12.71
+47,2025,2025-04-13,Rajasthan Royals,Gujarat Titans,Ravichandran Ashwin,64,62,6,6,103.23,1,3.2,8.81
+48,2023,2023-12-19,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,30,45,4,2,66.67,0,1.9,7.27
+49,2023,2022-02-03,Gujarat Titans,Chennai Super Kings,Sai Sudharsan,24,19,2,2,126.32,0,2.2,9.32
+50,2024,2023-06-07,Mumbai Indians,Delhi Capitals,Hardik Pandya,98,62,9,0,158.06,1,3.3,8.09
+51,2021,2023-08-07,Rajasthan Royals,Delhi Capitals,Shimron Hetmyer,69,39,9,3,176.92,0,1.8,8.89
+52,2024,2022-03-05,Rajasthan Royals,Punjab Kings,Trent Boult,59,58,2,0,101.72,2,2.8,10.24
+53,2021,2022-04-08,Sunrisers Hyderabad,Royal Challengers Bangalore,Aiden Markram,8,8,2,0,100.0,0,2.0,10.99
+54,2024,2021-09-15,Delhi Capitals,Punjab Kings,Axar Patel,2,35,0,0,5.71,4,2.0,10.14
+55,2021,2021-05-12,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,19,44,3,1,43.18,0,1.3,12.4
+56,2024,2024-08-23,Delhi Capitals,Sunrisers Hyderabad,David Warner,14,43,2,1,32.56,0,1.1,7.57
+57,2024,2024-07-26,Sunrisers Hyderabad,Kolkata Knight Riders,Abhishek Sharma,80,49,3,1,163.27,0,1.9,10.4
+58,2021,2024-03-27,Lucknow Super Giants,Mumbai Indians,Ayush Badoni,47,32,1,5,146.88,0,2.3,8.93
+59,2024,2022-02-08,Rajasthan Royals,Gujarat Titans,Trent Boult,22,32,5,0,68.75,0,3.8,11.09
+60,2024,2022-08-16,Sunrisers Hyderabad,Delhi Capitals,Heinrich Klaasen,11,58,2,0,18.97,0,2.4,9.84
+61,2024,2023-01-26,Rajasthan Royals,Mumbai Indians,Shimron Hetmyer,31,16,3,3,193.75,1,2.0,11.89
+62,2023,2022-04-27,Gujarat Titans,Mumbai Indians,Rashid Khan,7,10,1,0,70.0,0,1.7,8.82
+63,2024,2022-11-24,Punjab Kings,Mumbai Indians,Shikhar Dhawan,25,19,3,2,131.58,0,2.1,9.41
+64,2023,2023-03-22,Sunrisers Hyderabad,Lucknow Super Giants,Heinrich Klaasen,58,49,4,4,118.37,0,1.4,6.66
+65,2021,2022-06-18,Gujarat Titans,Royal Challengers Bangalore,Sai Sudharsan,61,52,4,4,117.31,3,3.5,7.45
+66,2023,2025-03-21,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,16,39,4,0,41.03,3,2.7,10.5
+67,2022,2024-06-19,Punjab Kings,Chennai Super Kings,Shikhar Dhawan,30,23,7,0,130.43,0,3.9,7.12
+68,2024,2024-01-03,Chennai Super Kings,Royal Challengers Bangalore,Shivam Dube,18,9,4,0,200.0,0,3.4,12.41
+69,2021,2023-08-01,Kolkata Knight Riders,Chennai Super Kings,Venkatesh Iyer,76,43,9,3,176.74,1,2.1,12.1
+70,2023,2024-06-08,Lucknow Super Giants,Sunrisers Hyderabad,Ayush Badoni,7,44,1,0,15.91,2,1.6,6.8
+71,2021,2024-05-05,Royal Challengers Bangalore,Delhi Capitals,Faf du Plessis,5,9,0,0,55.56,0,2.8,7.41
+72,2022,2023-10-17,Delhi Capitals,Rajasthan Royals,Anrich Nortje,7,9,1,0,77.78,0,2.6,10.12
+73,2023,2022-03-06,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,39,55,9,0,70.91,0,2.4,7.51
+74,2024,2024-01-07,Delhi Capitals,Lucknow Super Giants,Kuldeep Yadav,10,33,2,0,30.3,1,3.2,9.79
+75,2021,2024-06-22,Chennai Super Kings,Delhi Capitals,Deepak Chahar,2,42,0,0,4.76,0,3.3,6.53
+76,2025,2024-07-12,Punjab Kings,Delhi Capitals,Liam Livingstone,62,32,1,7,193.75,0,2.0,10.29
+77,2022,2024-01-10,Rajasthan Royals,Punjab Kings,Trent Boult,42,23,6,0,182.61,0,1.9,7.66
+78,2024,2024-04-16,Gujarat Titans,Mumbai Indians,Mohammed Shami,52,34,0,3,152.94,0,2.9,8.99
+79,2024,2024-04-29,Mumbai Indians,Delhi Capitals,Ishan Kishan,9,13,2,0,69.23,0,3.9,9.83
+80,2022,2021-04-29,Royal Challengers Bangalore,Rajasthan Royals,Dinesh Karthik,52,40,1,3,130.0,3,3.7,8.71
+81,2021,2022-11-19,Royal Challengers Bangalore,Gujarat Titans,Mohammed Siraj,34,37,6,1,91.89,3,1.7,9.39
+82,2024,2022-01-05,Kolkata Knight Riders,Lucknow Super Giants,Varun Chakravarthy,8,60,2,0,13.33,0,3.4,7.23
+83,2021,2024-07-01,Delhi Capitals,Rajasthan Royals,Kuldeep Yadav,62,47,2,7,131.91,0,2.0,9.39
+84,2025,2022-04-22,Sunrisers Hyderabad,Gujarat Titans,Heinrich Klaasen,30,49,7,0,61.22,0,3.3,5.53
+85,2024,2024-11-26,Sunrisers Hyderabad,Punjab Kings,Pat Cummins,15,14,0,2,107.14,0,2.8,11.81
+86,2024,2021-05-02,Chennai Super Kings,Lucknow Super Giants,Shivam Dube,18,51,4,0,35.29,0,3.3,7.21
+87,2025,2025-01-11,Sunrisers Hyderabad,Chennai Super Kings,Heinrich Klaasen,68,59,6,5,115.25,0,3.7,8.91
+88,2025,2024-10-14,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,36,48,3,1,75.0,0,1.3,10.02
+89,2021,2022-12-05,Punjab Kings,Royal Challengers Bangalore,Kagiso Rabada,3,62,0,0,4.84,1,1.9,8.05
+90,2022,2024-06-03,Kolkata Knight Riders,Lucknow Super Giants,Sunil Narine,23,48,2,2,47.92,0,3.6,9.91
+91,2022,2023-11-01,Punjab Kings,Royal Challengers Bangalore,Liam Livingstone,32,45,7,0,71.11,0,3.7,8.74
+92,2023,2023-09-22,Gujarat Titans,Royal Challengers Bangalore,Shubman Gill,44,65,9,1,67.69,0,2.3,7.1
+93,2023,2021-11-05,Kolkata Knight Riders,Punjab Kings,Sunil Narine,24,20,6,0,120.0,0,4.0,7.44
+94,2024,2025-02-03,Delhi Capitals,Mumbai Indians,Kuldeep Yadav,95,54,0,7,175.93,1,3.7,11.1
+95,2022,2024-10-25,Lucknow Super Giants,Rajasthan Royals,Nicholas Pooran,16,17,4,0,94.12,0,3.7,10.11
+96,2023,2023-04-18,Punjab Kings,Mumbai Indians,Arshdeep Singh,16,51,1,2,31.37,0,2.2,6.73
+97,2025,2022-10-11,Rajasthan Royals,Lucknow Super Giants,Ravichandran Ashwin,21,58,4,0,36.21,2,1.9,11.82
+98,2021,2022-07-07,Punjab Kings,Chennai Super Kings,Liam Livingstone,86,60,10,6,143.33,2,3.4,7.98
+99,2024,2021-12-10,Mumbai Indians,Rajasthan Royals,Tilak Varma,47,34,10,1,138.24,0,3.5,12.35
+100,2021,2024-09-20,Kolkata Knight Riders,Gujarat Titans,Shreyas Iyer,71,61,5,3,116.39,0,2.9,8.73
+101,2022,2023-05-14,Mumbai Indians,Chennai Super Kings,Ishan Kishan,46,37,6,2,124.32,0,2.1,8.47
+102,2023,2024-04-21,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,58,42,7,3,138.1,0,3.2,7.94
+103,2024,2022-05-09,Gujarat Titans,Rajasthan Royals,Shubman Gill,67,49,8,2,136.73,0,1.8,6.81
+104,2021,2023-04-29,Delhi Capitals,Kolkata Knight Riders,Rishabh Pant,35,28,4,1,125.0,0,2.7,9.42
+105,2025,2024-05-17,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,78,52,9,3,150.0,0,1.6,7.32
+106,2022,2023-04-03,Rajasthan Royals,Sunrisers Hyderabad,Yashasvi Jaiswal,73,48,10,2,152.08,0,1.2,8.46
+107,2023,2024-04-11,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,41,22,3,4,186.36,1,2.4,9.18
+108,2024,2025-04-02,Gujarat Titans,Delhi Capitals,Sai Sudharsan,54,43,6,1,125.58,0,2.1,7.35
+109,2021,2022-04-14,Punjab Kings,Chennai Super Kings,Shikhar Dhawan,63,47,8,2,134.04,0,1.4,8.72
+110,2025,2023-05-07,Sunrisers Hyderabad,Rajasthan Royals,Travis Head,81,52,7,5,155.77,0,1.8,9.34
+111,2022,2024-04-25,Lucknow Super Giants,Mumbai Indians,KL Rahul,57,44,6,2,129.55,0,2.2,8.17
+112,2023,2025-03-30,Delhi Capitals,Punjab Kings,Rishabh Pant,42,31,5,2,135.48,0,2.8,10.31
+113,2024,2023-05-21,Rajasthan Royals,Royal Challengers Bangalore,Sanju Samson,66,45,5,4,146.67,0,1.7,7.85
+114,2021,2024-04-04,Mumbai Indians,Delhi Capitals,Rohit Sharma,34,29,5,1,117.24,0,2.5,8.42
+115,2025,2023-04-12,Chennai Super Kings,Rajasthan Royals,Shivam Dube,49,28,4,3,175.0,0,1.3,9.67
+116,2022,2024-05-01,Kolkata Knight Riders,Punjab Kings,Sunil Narine,38,24,5,2,158.33,2,3.4,7.19
+117,2023,2025-04-08,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,62,47,7,3,131.91,0,2.6,6.83
+118,2024,2023-04-25,Gujarat Titans,Lucknow Super Giants,Rashid Khan,19,15,1,1,126.67,3,4.0,6.25
+119,2021,2022-05-20,Delhi Capitals,Rajasthan Royals,Axar Patel,28,20,3,1,140.0,2,3.6,7.02
+120,2025,2024-05-11,Sunrisers Hyderabad,Lucknow Super Giants,Heinrich Klaasen,74,41,5,6,180.49,0,2.1,8.91
+121,2022,2023-05-05,Chennai Super Kings,Mumbai Indians,Ravindra Jadeja,44,27,4,2,162.96,2,3.8,6.44
+122,2023,2024-04-28,Rajasthan Royals,Delhi Capitals,Jos Buttler,57,39,6,3,146.15,0,1.5,8.37
+123,2024,2025-04-15,Kolkata Knight Riders,Rajasthan Royals,Rinku Singh,35,21,2,3,166.67,0,1.7,9.52
+124,2021,2023-05-10,Mumbai Indians,Royal Challengers Bangalore,Suryakumar Yadav,72,49,8,2,146.94,0,2.4,7.63
+125,2025,2022-04-20,Punjab Kings,Delhi Capitals,Liam Livingstone,51,35,4,3,145.71,1,2.9,8.16
+126,2023,2024-05-03,Gujarat Titans,Chennai Super Kings,David Miller,39,27,3,2,144.44,0,2.2,7.44
+127,2022,2025-04-23,Sunrisers Hyderabad,Delhi Capitals,Abhishek Sharma,68,45,7,4,151.11,0,1.9,8.62
+128,2024,2023-05-16,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,55,29,5,4,189.66,1,2.7,9.73
+129,2021,2024-04-07,Punjab Kings,Rajasthan Royals,Jitesh Sharma,31,19,3,2,163.16,0,1.5,10.14
+130,2025,2023-05-13,Lucknow Super Giants,Gujarat Titans,Nicholas Pooran,61,34,4,5,179.41,0,2.3,8.27
+131,2022,2024-04-14,Delhi Capitals,Kolkata Knight Riders,David Warner,49,38,6,1,128.95,0,1.4,7.92
+132,2023,2025-04-05,Mumbai Indians,Rajasthan Royals,Tilak Varma,63,44,5,3,143.18,0,2.6,9.13
+133,2024,2022-05-03,Chennai Super Kings,Delhi Capitals,MS Dhoni,27,14,2,2,192.86,0,1.8,8.75
+134,2021,2023-04-09,Gujarat Titans,Sunrisers Hyderabad,Shubman Gill,52,41,6,2,126.83,0,2.2,7.36
+135,2025,2024-05-05,Royal Challengers Bangalore,Gujarat Titans,Rajat Patidar,47,26,4,3,180.77,0,1.6,8.84
+136,2022,2023-05-19,Punjab Kings,Rajasthan Royals,Sam Curran,36,25,3,2,144.0,2,3.3,7.41
+137,2023,2024-04-19,Chennai Super Kings,Lucknow Super Giants,Devon Conway,70,53,8,2,132.08,0,1.3,8.93
+138,2024,2025-04-10,Delhi Capitals,Royal Challengers Bangalore,Axar Patel,43,29,4,2,148.28,2,3.9,6.78
+139,2021,2023-05-02,Kolkata Knight Riders,Sunrisers Hyderabad,Venkatesh Iyer,58,40,6,3,145.0,0,2.0,8.12
+140,2025,2024-04-30,Mumbai Indians,Lucknow Super Giants,Hardik Pandya,51,33,4,3,154.55,1,2.7,9.26
+141,2022,2023-04-16,Rajasthan Royals,Gujarat Titans,Yashasvi Jaiswal,82,54,11,3,151.85,0,1.9,7.67
+142,2023,2024-05-08,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,64,48,7,2,133.33,0,1.5,6.92
+143,2024,2025-04-19,Kolkata Knight Riders,Punjab Kings,Andre Russell,54,25,3,5,216.0,1,2.4,8.36
+144,2021,2022-04-06,Sunrisers Hyderabad,Rajasthan Royals,Aiden Markram,47,36,5,2,130.56,1,3.7,7.13
+145,2025,2024-05-14,Chennai Super Kings,Rajasthan Royals,Ruturaj Gaikwad,76,51,8,3,149.02,0,1.8,8.04
+146,2022,2023-04-30,Mumbai Indians,Punjab Kings,Ishan Kishan,61,43,7,2,141.86,0,2.3,9.11
+147,2023,2024-04-23,Delhi Capitals,Sunrisers Hyderabad,Rishabh Pant,53,36,5,3,147.22,0,2.1,7.68
+148,2024,2025-04-27,Gujarat Titans,Royal Challengers Bangalore,Shubman Gill,69,46,8,2,150.0,0,1.6,6.97
+149,2021,2023-05-04,Rajasthan Royals,Kolkata Knight Riders,Sanju Samson,45,37,4,2,121.62,0,2.7,8.48
+150,2025,2024-05-07,Sunrisers Hyderabad,Mumbai Indians,Travis Head,77,42,9,4,183.33,0,1.9,9.02
+151,2022,2023-04-22,Lucknow Super Giants,Chennai Super Kings,KL Rahul,48,35,5,2,137.14,0,2.4,8.33
+152,2023,2024-05-02,Punjab Kings,Royal Challengers Bangalore,Shikhar Dhawan,56,41,6,2,136.59,0,1.8,7.54
+153,2024,2025-04-04,Kolkata Knight Riders,Delhi Capitals,Shreyas Iyer,61,45,6,3,135.56,0,2.2,8.67
+154,2021,2023-05-08,Chennai Super Kings,Mumbai Indians,Ravindra Jadeja,33,21,3,2,157.14,2,3.6,6.58
+155,2025,2024-04-18,Rajasthan Royals,Gujarat Titans,Jos Buttler,88,57,10,4,154.39,0,1.7,7.91
+156,2022,2023-04-28,Royal Challengers Bangalore,Delhi Capitals,Faf du Plessis,73,52,8,3,140.38,0,2.5,7.38
+157,2023,2024-05-09,Mumbai Indians,Kolkata Knight Riders,Suryakumar Yadav,67,39,6,4,171.79,0,1.6,8.13
+158,2024,2025-04-13,Punjab Kings,Sunrisers Hyderabad,Arshdeep Singh,19,28,2,0,67.86,3,4.0,6.91
+159,2021,2023-05-12,Gujarat Titans,Delhi Capitals,Rashid Khan,25,17,2,1,147.06,4,4.0,5.84
+160,2025,2024-05-18,Chennai Super Kings,Royal Challengers Bangalore,Shivam Dube,57,31,5,4,183.87,0,1.4,9.37
+161,2022,2023-05-06,Rajasthan Royals,Mumbai Indians,Shimron Hetmyer,48,29,3,3,165.52,0,2.0,8.44
+162,2023,2024-04-13,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,43,24,5,3,179.17,2,3.8,7.18
+163,2024,2025-04-21,Delhi Capitals,Punjab Kings,David Warner,71,50,8,2,142.0,0,1.3,8.36
+164,2021,2023-05-17,Lucknow Super Giants,Rajasthan Royals,Nicholas Pooran,45,27,3,4,166.67,0,1.7,7.93
+165,2025,2024-04-24,Gujarat Titans,Chennai Super Kings,David Miller,58,42,5,2,138.1,0,2.6,8.18
+166,2022,2023-05-11,Royal Challengers Bangalore,Sunrisers Hyderabad,Virat Kohli,91,58,11,2,156.9,0,1.4,7.64
+167,2023,2024-05-13,Rajasthan Royals,Delhi Capitals,Yashasvi Jaiswal,64,38,8,2,168.42,0,2.1,9.03
+168,2024,2025-04-06,Sunrisers Hyderabad,Chennai Super Kings,Heinrich Klaasen,79,46,6,5,171.74,0,1.8,8.31
+169,2021,2023-04-20,Punjab Kings,Mumbai Indians,Liam Livingstone,53,32,4,4,165.63,1,2.9,7.56
+170,2025,2024-05-16,Royal Challengers Bangalore,Gujarat Titans,Rajat Patidar,72,38,7,5,189.47,0,1.5,8.72
+171,2022,2023-05-15,Kolkata Knight Riders,Lucknow Super Giants,Rinku Singh,46,28,3,3,164.29,0,1.7,9.16
+172,2023,2024-04-27,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni,34,15,3,2,226.67,0,2.0,7.88
+173,2024,2025-04-11,Mumbai Indians,Delhi Capitals,Rohit Sharma,59,44,7,2,134.09,0,1.4,8.52
+174,2021,2023-05-03,Gujarat Titans,Rajasthan Royals,Sai Sudharsan,77,54,8,1,142.59,0,2.3,7.61
+175,2025,2024-05-10,Sunrisers Hyderabad,Lucknow Super Giants,Abhishek Sharma,65,39,6,4,166.67,0,1.6,8.95
+176,2022,2023-04-07,Delhi Capitals,Mumbai Indians,Axar Patel,39,24,4,2,162.5,2,3.8,6.47
+177,2023,2024-04-29,Rajasthan Royals,Punjab Kings,Ravichandran Ashwin,31,18,4,1,172.22,3,4.0,7.22
+178,2024,2025-04-03,Lucknow Super Giants,Gujarat Titans,Marcus Stoinis,69,44,6,4,156.82,1,2.5,9.42
+179,2021,2023-05-09,Mumbai Indians,Chennai Super Kings,Hardik Pandya,42,25,2,3,168.0,1,3.3,8.16
+180,2025,2024-05-12,Kolkata Knight Riders,Rajasthan Royals,Andre Russell,63,31,4,5,203.23,2,2.6,7.84
+181,2022,2023-04-11,Royal Challengers Bangalore,Lucknow Super Giants,Glenn Maxwell,57,33,5,4,172.73,1,3.2,8.39
+182,2023,2024-05-04,Chennai Super Kings,Punjab Kings,Ravindra Jadeja,36,22,3,2,163.64,2,3.7,6.88
+183,2024,2025-04-09,Delhi Capitals,Rajasthan Royals,Rishabh Pant,61,43,6,3,141.86,0,1.8,8.04
+184,2021,2023-05-18,Gujarat Titans,Royal Challengers Bangalore,Mohammed Shami,8,14,1,0,57.14,4,4.0,5.97
+185,2025,2024-05-06,Sunrisers Hyderabad,Punjab Kings,Pat Cummins,29,17,2,2,170.59,3,4.0,6.42
+186,2022,2023-04-24,Mumbai Indians,Kolkata Knight Riders,Ishan Kishan,54,37,5,3,145.95,0,1.9,8.74
+187,2023,2024-05-15,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,83,55,9,3,150.91,0,1.5,7.93
+188,2024,2025-04-16,Rajasthan Royals,Gujarat Titans,Sanju Samson,58,41,5,3,141.46,0,2.0,8.61
+189,2021,2023-04-26,Delhi Capitals,Sunrisers Hyderabad,Kuldeep Yadav,12,9,2,0,133.33,3,4.0,6.32
+190,2025,2024-05-08,Mumbai Indians,Kolkata Knight Riders,Suryakumar Yadav,81,47,7,5,172.34,0,1.2,9.24
+191,2022,2023-05-01,Chennai Super Kings,Punjab Kings,Ruturaj Gaikwad,62,48,7,2,129.17,0,2.4,7.82
+192,2023,2024-04-16,Gujarat Titans,Lucknow Super Giants,Rashid Khan,23,14,2,1,164.29,3,4.0,6.19
+193,2024,2025-04-25,Delhi Capitals,Kolkata Knight Riders,Axar Patel,47,29,4,2,162.07,2,3.8,7.43
+194,2021,2023-05-20,Rajasthan Royals,Chennai Super Kings,Jos Buttler,94,58,10,5,162.07,0,1.6,8.22
+195,2025,2024-05-03,Sunrisers Hyderabad,Rajasthan Royals,Travis Head,73,45,8,4,162.22,0,1.7,9.08
+196,2022,2023-04-13,Punjab Kings,Gujarat Titans,Sam Curran,41,26,4,2,157.69,2,3.9,7.17
+197,2023,2024-05-19,Lucknow Super Giants,Chennai Super Kings,KL Rahul,68,51,7,2,133.33,0,2.2,8.48
+198,2024,2025-04-20,Royal Challengers Bangalore,Delhi Capitals,Faf du Plessis,74,49,8,3,151.02,0,1.3,7.76
+199,2021,2023-04-19,Kolkata Knight Riders,Sunrisers Hyderabad,Venkatesh Iyer,55,34,6,2,161.76,0,2.8,8.93
+200,2025,2024-05-20,Gujarat Titans,Mumbai Indians,Shubman Gill,86,57,9,4,150.88,0,1.5,7.21
+201,2024,2024-12-16,Sunrisers Hyderabad,Chennai Super Kings,Pat Cummins,69,60,2,5,115.0,0,4.0,8.19
+202,2022,2022-12-03,Kolkata Knight Riders,Mumbai Indians,Shreyas Iyer,54,34,8,3,158.82,1,1.7,7.83
+203,2023,2024-12-13,Kolkata Knight Riders,Chennai Super Kings,Shreyas Iyer,39,31,0,3,125.81,0,1.3,5.46
+204,2025,2021-06-30,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,28,30,3,2,93.33,1,3.3,6.27
+205,2023,2024-08-07,Kolkata Knight Riders,Sunrisers Hyderabad,Venkatesh Iyer,86,54,5,3,159.26,0,1.4,10.22
+206,2022,2021-08-03,Sunrisers Hyderabad,Delhi Capitals,Heinrich Klaasen,75,40,2,6,187.5,0,1.1,7.82
+207,2024,2023-08-01,Gujarat Titans,Rajasthan Royals,Mohammed Shami,9,31,2,0,29.03,0,2.6,7.03
+208,2022,2021-07-28,Delhi Capitals,Royal Challengers Bangalore,Prithvi Shaw,52,40,6,2,130.0,0,1.8,7.71
+209,2021,2024-04-01,Punjab Kings,Rajasthan Royals,Shikhar Dhawan,24,51,0,4,47.06,0,2.8,5.5
+210,2021,2023-12-08,Kolkata Knight Riders,Lucknow Super Giants,Rinku Singh,21,18,4,0,116.67,0,1.6,10.84
+211,2024,2022-08-04,Kolkata Knight Riders,Delhi Capitals,Sunil Narine,41,40,4,4,102.5,0,2.9,7.54
+212,2023,2021-10-19,Gujarat Titans,Punjab Kings,Rahul Tewatia,92,56,7,5,164.29,2,2.1,8.35
+213,2025,2022-09-17,Kolkata Knight Riders,Royal Challengers Bangalore,Shreyas Iyer,74,40,9,6,185.0,0,1.6,6.95
+214,2025,2024-12-01,Kolkata Knight Riders,Gujarat Titans,Venkatesh Iyer,87,65,5,4,133.85,1,2.5,10.7
+215,2024,2023-03-23,Punjab Kings,Royal Challengers Bangalore,Kagiso Rabada,4,15,1,0,26.67,0,3.7,12.73
+216,2021,2024-12-29,Gujarat Titans,Mumbai Indians,Shubman Gill,0,8,0,0,0.0,1,1.7,10.57
+217,2021,2023-05-05,Kolkata Knight Riders,Lucknow Super Giants,Sunil Narine,15,8,3,0,187.5,0,2.6,8.33
+218,2021,2022-11-09,Gujarat Titans,Delhi Capitals,Rashid Khan,8,6,2,0,133.33,1,3.7,6.01
+219,2021,2022-04-29,Gujarat Titans,Royal Challengers Bangalore,Sai Sudharsan,67,44,4,5,152.27,0,2.2,8.04
+220,2024,2022-07-07,Punjab Kings,Kolkata Knight Riders,Kagiso Rabada,43,24,1,0,179.17,0,2.1,9.4
+221,2021,2024-01-19,Mumbai Indians,Kolkata Knight Riders,Rohit Sharma,55,59,10,2,93.22,0,3.6,5.92
+222,2025,2025-02-16,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,72,61,7,4,118.03,0,1.2,12.23
+223,2025,2023-01-05,Lucknow Super Giants,Mumbai Indians,Nicholas Pooran,3,6,0,0,50.0,1,3.1,8.23
+224,2021,2022-08-06,Delhi Capitals,Royal Challengers Bangalore,Kuldeep Yadav,49,41,10,1,119.51,0,3.2,11.21
+225,2021,2021-10-18,Gujarat Titans,Rajasthan Royals,Shubman Gill,29,32,1,4,90.62,0,2.8,9.73
+226,2023,2023-12-31,Mumbai Indians,Rajasthan Royals,Hardik Pandya,22,19,5,0,115.79,0,3.0,10.22
+227,2021,2025-03-31,Lucknow Super Giants,Delhi Capitals,Nicholas Pooran,2,9,0,0,22.22,0,3.4,6.37
+228,2024,2021-10-05,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,4,5,1,0,80.0,1,1.3,5.86
+229,2024,2024-02-14,Punjab Kings,Lucknow Super Giants,Arshdeep Singh,6,31,0,1,19.35,0,1.3,9.75
+230,2023,2023-07-27,Sunrisers Hyderabad,Mumbai Indians,Heinrich Klaasen,49,29,1,3,168.97,0,1.5,8.09
+231,2022,2024-01-05,Delhi Capitals,Rajasthan Royals,Axar Patel,2,14,0,0,14.29,0,1.9,11.15
+232,2023,2024-10-02,Delhi Capitals,Kolkata Knight Riders,Anrich Nortje,25,36,6,0,69.44,0,1.0,8.21
+233,2025,2023-02-15,Sunrisers Hyderabad,Rajasthan Royals,Aiden Markram,17,32,4,0,53.12,0,3.1,8.84
+234,2022,2025-02-22,Sunrisers Hyderabad,Rajasthan Royals,Heinrich Klaasen,62,45,9,3,137.78,0,1.8,11.17
+235,2023,2024-04-22,Chennai Super Kings,Delhi Capitals,Devon Conway,1,16,0,0,6.25,0,1.9,10.47
+236,2024,2022-12-12,Punjab Kings,Royal Challengers Bangalore,Kagiso Rabada,16,20,4,0,80.0,0,3.4,5.76
+237,2025,2024-02-02,Punjab Kings,Sunrisers Hyderabad,Arshdeep Singh,88,64,6,0,137.5,1,2.1,12.01
+238,2025,2022-08-22,Lucknow Super Giants,Chennai Super Kings,KL Rahul,85,47,5,2,180.85,0,1.1,12.68
+239,2024,2021-04-22,Rajasthan Royals,Punjab Kings,Sanju Samson,8,11,2,0,72.73,0,2.2,11.07
+240,2025,2021-05-21,Gujarat Titans,Royal Challengers Bangalore,David Miller,13,35,3,0,37.14,2,1.3,11.52
+241,2022,2023-10-20,Rajasthan Royals,Delhi Capitals,Yashasvi Jaiswal,26,55,6,0,47.27,0,1.3,10.69
+242,2024,2021-07-01,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,90,56,1,0,160.71,1,2.9,10.35
+243,2022,2024-05-05,Kolkata Knight Riders,Lucknow Super Giants,Rinku Singh,10,15,2,0,66.67,2,1.7,8.28
+244,2022,2021-05-30,Royal Challengers Bangalore,Punjab Kings,Rajat Patidar,78,52,3,7,150.0,0,2.2,10.56
+245,2022,2021-10-26,Delhi Capitals,Chennai Super Kings,Kuldeep Yadav,68,56,2,5,121.43,0,2.4,7.19
+246,2024,2023-06-05,Gujarat Titans,Rajasthan Royals,Rashid Khan,50,44,9,1,113.64,0,3.5,9.89
+247,2023,2021-12-31,Lucknow Super Giants,Chennai Super Kings,Ravi Bishnoi,7,25,1,0,28.0,0,2.1,6.27
+248,2024,2023-05-26,Sunrisers Hyderabad,Royal Challengers Bangalore,Bhuvneshwar Kumar,23,32,5,0,71.88,0,2.5,6.27
+249,2023,2021-04-20,Punjab Kings,Mumbai Indians,Jitesh Sharma,17,36,3,0,47.22,2,2.5,8.96
+250,2024,2022-03-09,Sunrisers Hyderabad,Gujarat Titans,Aiden Markram,18,10,0,3,180.0,0,1.8,9.29
+251,2022,2024-02-11,Punjab Kings,Gujarat Titans,Arshdeep Singh,18,12,1,2,150.0,1,3.5,7.99
+252,2021,2023-08-19,Punjab Kings,Lucknow Super Giants,Liam Livingstone,20,11,3,1,181.82,1,1.1,7.2
+253,2021,2022-06-04,Punjab Kings,Chennai Super Kings,Liam Livingstone,94,56,9,5,167.86,1,2.8,8.45
+254,2025,2021-07-31,Royal Challengers Bangalore,Delhi Capitals,Faf du Plessis,44,41,8,2,107.32,0,1.5,12.64
+255,2023,2025-01-21,Delhi Capitals,Rajasthan Royals,Kuldeep Yadav,12,57,2,0,21.05,2,4.0,11.79
+256,2022,2025-03-27,Royal Challengers Bangalore,Delhi Capitals,Faf du Plessis,15,25,3,0,60.0,0,2.7,7.24
+257,2024,2024-10-19,Sunrisers Hyderabad,Gujarat Titans,Abhishek Sharma,98,55,1,6,178.18,0,1.8,12.32
+258,2023,2024-07-05,Punjab Kings,Gujarat Titans,Jitesh Sharma,1,5,0,0,20.0,1,3.4,8.22
+259,2024,2023-01-22,Kolkata Knight Riders,Gujarat Titans,Andre Russell,36,58,5,2,62.07,0,2.5,7.81
+260,2021,2023-10-29,Mumbai Indians,Royal Challengers Bangalore,Jasprit Bumrah,1,6,0,0,16.67,0,4.0,8.45
+261,2022,2021-10-09,Delhi Capitals,Royal Challengers Bangalore,Axar Patel,46,46,4,1,100.0,0,3.7,6.46
+262,2024,2024-12-03,Delhi Capitals,Kolkata Knight Riders,Prithvi Shaw,3,10,0,0,30.0,0,1.4,6.92
+263,2024,2023-03-05,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,15,57,3,0,26.32,0,1.7,5.88
+264,2021,2022-12-04,Chennai Super Kings,Sunrisers Hyderabad,Ravindra Jadeja,12,13,2,0,92.31,0,2.7,9.84
+265,2022,2022-06-11,Punjab Kings,Rajasthan Royals,Kagiso Rabada,19,45,4,0,42.22,1,1.3,5.96
+266,2021,2023-08-28,Lucknow Super Giants,Sunrisers Hyderabad,Ayush Badoni,50,25,2,3,200.0,0,1.3,9.41
+267,2025,2021-05-25,Lucknow Super Giants,Delhi Capitals,Ravi Bishnoi,84,59,4,3,142.37,0,2.5,10.88
+268,2023,2023-05-31,Mumbai Indians,Delhi Capitals,Hardik Pandya,7,12,1,0,58.33,0,3.9,12.7
+269,2023,2023-08-10,Royal Challengers Bangalore,Punjab Kings,Dinesh Karthik,34,28,8,0,121.43,1,3.9,11.05
+270,2021,2022-09-19,Lucknow Super Giants,Chennai Super Kings,KL Rahul,2,18,0,0,11.11,0,2.9,9.01
+271,2024,2024-11-02,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,68,39,9,2,174.36,0,1.9,9.09
+272,2022,2023-06-10,Royal Challengers Bangalore,Lucknow Super Giants,Glenn Maxwell,81,42,10,1,192.86,0,2.3,12.45
+273,2022,2023-09-07,Mumbai Indians,Delhi Capitals,Rohit Sharma,14,12,3,0,116.67,0,3.2,10.83
+274,2021,2021-04-24,Mumbai Indians,Kolkata Knight Riders,Jasprit Bumrah,15,15,3,0,100.0,0,1.4,11.14
+275,2023,2023-08-28,Chennai Super Kings,Mumbai Indians,Ravindra Jadeja,33,22,1,4,150.0,0,2.7,5.79
+276,2024,2024-01-19,Gujarat Titans,Rajasthan Royals,Shubman Gill,72,59,2,5,122.03,0,3.3,12.0
+277,2021,2021-06-30,Kolkata Knight Riders,Lucknow Super Giants,Shreyas Iyer,1,59,0,0,1.69,0,2.1,6.34
+278,2021,2023-01-20,Gujarat Titans,Sunrisers Hyderabad,Sai Sudharsan,26,20,5,1,130.0,1,2.7,6.11
+279,2021,2021-07-04,Royal Challengers Bangalore,Delhi Capitals,Dinesh Karthik,4,30,1,0,13.33,1,1.9,5.86
+280,2024,2022-11-19,Mumbai Indians,Sunrisers Hyderabad,Suryakumar Yadav,38,41,9,0,92.68,0,2.8,8.95
+281,2022,2021-04-14,Gujarat Titans,Kolkata Knight Riders,Sai Sudharsan,52,64,0,3,81.25,0,2.9,10.47
+282,2021,2023-05-11,Rajasthan Royals,Mumbai Indians,Trent Boult,94,59,4,1,159.32,0,3.9,8.39
+283,2021,2021-06-29,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,29,63,7,0,46.03,0,2.1,12.61
+284,2021,2021-12-30,Lucknow Super Giants,Chennai Super Kings,Krunal Pandya,50,45,1,0,111.11,0,3.9,7.0
+285,2023,2023-01-29,Rajasthan Royals,Punjab Kings,Trent Boult,28,25,4,2,112.0,0,1.6,11.13
+286,2025,2022-03-03,Chennai Super Kings,Kolkata Knight Riders,Ruturaj Gaikwad,59,33,5,6,178.79,0,2.1,11.05
+287,2024,2021-12-02,Delhi Capitals,Gujarat Titans,Axar Patel,5,10,1,0,50.0,1,3.1,5.51
+288,2023,2022-08-22,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,25,27,6,0,92.59,0,1.8,12.73
+289,2021,2024-05-01,Sunrisers Hyderabad,Gujarat Titans,Bhuvneshwar Kumar,6,20,1,0,30.0,1,1.4,5.29
+290,2022,2023-05-03,Royal Challengers Bangalore,Delhi Capitals,Rajat Patidar,80,48,10,1,166.67,0,1.8,11.38
+291,2021,2023-09-26,Chennai Super Kings,Delhi Capitals,Deepak Chahar,16,56,1,2,28.57,0,3.8,5.58
+292,2025,2021-05-31,Sunrisers Hyderabad,Punjab Kings,Aiden Markram,43,29,6,2,148.28,0,3.7,7.29
+293,2024,2024-09-20,Royal Challengers Bangalore,Mumbai Indians,Dinesh Karthik,31,44,7,0,70.45,0,3.6,8.84
+294,2021,2023-08-07,Delhi Capitals,Punjab Kings,David Warner,33,17,3,0,194.12,3,3.3,7.93
+295,2025,2024-01-24,Punjab Kings,Rajasthan Royals,Arshdeep Singh,24,25,4,1,96.0,0,2.8,5.42
+296,2023,2023-04-03,Mumbai Indians,Gujarat Titans,Tilak Varma,74,54,3,2,137.04,0,3.0,7.23
+297,2021,2022-03-22,Kolkata Knight Riders,Punjab Kings,Andre Russell,15,16,3,0,93.75,1,3.1,12.15
+298,2021,2022-04-21,Rajasthan Royals,Royal Challengers Bangalore,Ravichandran Ashwin,63,58,8,4,108.62,0,1.1,5.63
+299,2025,2023-12-05,Kolkata Knight Riders,Mumbai Indians,Venkatesh Iyer,5,5,1,0,100.0,1,2.0,6.55
+300,2023,2024-07-15,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,18,50,1,2,36.0,2,2.1,12.36
+301,2024,2022-12-10,Lucknow Super Giants,Chennai Super Kings,Ayush Badoni,8,25,2,0,32.0,1,3.9,10.13
+302,2022,2024-12-24,Gujarat Titans,Rajasthan Royals,Sai Sudharsan,22,42,5,0,52.38,1,1.9,6.55
+303,2021,2021-06-06,Lucknow Super Giants,Sunrisers Hyderabad,Krunal Pandya,20,16,5,0,125.0,0,1.3,8.97
+304,2023,2023-01-15,Chennai Super Kings,Delhi Capitals,Ravindra Jadeja,20,15,1,2,133.33,0,1.8,7.1
+305,2021,2025-04-15,Rajasthan Royals,Delhi Capitals,Sanju Samson,0,5,0,0,0.0,1,3.9,11.92
+306,2024,2023-05-09,Sunrisers Hyderabad,Rajasthan Royals,Bhuvneshwar Kumar,15,11,3,0,136.36,0,1.2,11.63
+307,2023,2021-11-01,Mumbai Indians,Sunrisers Hyderabad,Ishan Kishan,10,9,2,0,111.11,0,1.2,12.36
+308,2021,2021-06-03,Rajasthan Royals,Gujarat Titans,Trent Boult,21,32,5,0,65.62,0,1.3,6.76
+309,2022,2025-05-04,Sunrisers Hyderabad,Lucknow Super Giants,Pat Cummins,33,39,8,0,84.62,0,1.3,8.19
+310,2025,2023-04-09,Punjab Kings,Royal Challengers Bangalore,Shikhar Dhawan,6,5,1,0,120.0,1,2.9,8.85
+311,2021,2024-10-29,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,5,23,1,0,21.74,0,2.2,8.92
+312,2023,2022-04-14,Chennai Super Kings,Lucknow Super Giants,Shivam Dube,56,28,6,5,200.0,0,1.1,8.54
+313,2023,2021-08-05,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,24,14,6,0,171.43,0,2.0,9.32
+314,2025,2023-06-02,Kolkata Knight Riders,Lucknow Super Giants,Shreyas Iyer,66,57,6,7,115.79,0,1.7,7.47
+315,2024,2024-02-23,Mumbai Indians,Lucknow Super Giants,Tilak Varma,73,56,10,2,130.36,0,3.3,6.51
+316,2022,2021-06-27,Kolkata Knight Riders,Delhi Capitals,Rinku Singh,10,32,2,0,31.25,0,3.5,6.32
+317,2025,2021-08-16,Delhi Capitals,Sunrisers Hyderabad,Anrich Nortje,12,10,3,0,120.0,0,3.6,9.15
+318,2021,2021-11-17,Lucknow Super Giants,Gujarat Titans,Marcus Stoinis,9,31,2,0,29.03,2,2.7,5.97
+319,2023,2022-09-23,Gujarat Titans,Rajasthan Royals,Rahul Tewatia,41,29,7,2,141.38,0,1.8,6.29
+320,2025,2023-02-08,Sunrisers Hyderabad,Mumbai Indians,Aiden Markram,30,49,0,5,61.22,2,3.7,5.35
+321,2023,2025-02-24,Delhi Capitals,Rajasthan Royals,Prithvi Shaw,12,48,3,0,25.0,0,3.2,11.08
+322,2023,2024-11-13,Delhi Capitals,Punjab Kings,Kuldeep Yadav,6,10,1,0,60.0,2,2.2,8.88
+323,2025,2022-02-20,Rajasthan Royals,Mumbai Indians,Ravichandran Ashwin,9,9,2,0,100.0,0,3.6,11.88
+324,2021,2021-07-28,Royal Challengers Bangalore,Delhi Capitals,Faf du Plessis,2,20,0,0,10.0,2,3.1,7.28
+325,2024,2021-12-10,Gujarat Titans,Sunrisers Hyderabad,Mohammed Shami,3,48,0,0,6.25,0,2.3,12.5
+326,2024,2023-03-07,Lucknow Super Giants,Gujarat Titans,Ayush Badoni,26,15,4,1,173.33,0,2.2,6.44
+327,2025,2022-07-06,Kolkata Knight Riders,Delhi Capitals,Varun Chakravarthy,26,48,4,1,54.17,0,3.6,12.55
+328,2021,2022-03-21,Punjab Kings,Royal Challengers Bangalore,Kagiso Rabada,1,43,0,0,2.33,0,3.8,10.62
+329,2023,2023-10-28,Sunrisers Hyderabad,Punjab Kings,Heinrich Klaasen,13,21,3,0,61.9,0,3.5,8.22
+330,2021,2023-05-07,Mumbai Indians,Lucknow Super Giants,Jasprit Bumrah,76,40,9,4,190.0,0,1.3,5.69
+331,2023,2024-12-04,Rajasthan Royals,Delhi Capitals,Yashasvi Jaiswal,83,50,4,3,166.0,0,3.3,12.04
+332,2025,2022-01-12,Sunrisers Hyderabad,Rajasthan Royals,Pat Cummins,3,51,0,0,5.88,4,1.8,8.38
+333,2024,2025-04-27,Mumbai Indians,Delhi Capitals,Ishan Kishan,28,50,7,0,56.0,2,3.0,9.06
+334,2022,2021-10-17,Gujarat Titans,Royal Challengers Bangalore,David Miller,16,35,4,0,45.71,2,3.7,10.17
+335,2022,2022-12-20,Rajasthan Royals,Kolkata Knight Riders,Trent Boult,50,31,5,5,161.29,0,1.9,11.67
+336,2024,2022-05-04,Mumbai Indians,Royal Challengers Bangalore,Hardik Pandya,15,37,3,0,40.54,0,2.2,11.82
+337,2022,2023-07-18,Royal Challengers Bangalore,Delhi Capitals,Glenn Maxwell,58,41,2,5,141.46,1,1.5,5.81
+338,2023,2021-07-28,Royal Challengers Bangalore,Sunrisers Hyderabad,Mohammed Siraj,7,5,1,0,140.0,1,1.5,11.01
+339,2024,2023-09-06,Chennai Super Kings,Kolkata Knight Riders,Devon Conway,54,45,6,5,120.0,2,2.1,5.49
+340,2022,2024-03-23,Rajasthan Royals,Mumbai Indians,Yashasvi Jaiswal,1,17,0,0,5.88,0,1.7,10.47
+341,2023,2023-05-26,Delhi Capitals,Royal Challengers Bangalore,Rishabh Pant,39,37,2,1,105.41,1,1.9,7.41
+342,2025,2023-09-06,Lucknow Super Giants,Gujarat Titans,Ayush Badoni,87,61,2,5,142.62,4,2.5,10.9
+343,2022,2022-07-04,Sunrisers Hyderabad,Mumbai Indians,Travis Head,16,51,3,0,31.37,0,1.5,7.99
+344,2021,2024-09-28,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,1,8,0,0,12.5,0,1.1,10.44
+345,2024,2024-04-25,Punjab Kings,Sunrisers Hyderabad,Shikhar Dhawan,30,21,2,3,142.86,0,2.9,7.49
+346,2021,2024-08-23,Gujarat Titans,Delhi Capitals,Rashid Khan,17,49,4,0,34.69,0,2.9,7.35
+347,2021,2022-05-15,Punjab Kings,Kolkata Knight Riders,Arshdeep Singh,33,54,8,0,61.11,0,2.2,6.42
+348,2025,2023-12-11,Punjab Kings,Kolkata Knight Riders,Kagiso Rabada,15,26,0,0,57.69,0,3.7,11.55
+349,2024,2021-09-01,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,92,51,1,4,180.39,0,2.4,12.63
+350,2023,2022-03-24,Punjab Kings,Mumbai Indians,Shikhar Dhawan,5,60,1,0,8.33,1,1.9,10.81
+351,2021,2024-12-19,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,21,46,5,0,45.65,1,3.9,7.24
+352,2021,2021-11-20,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,25,30,6,0,83.33,1,3.1,8.83
+353,2024,2025-02-24,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,7,51,1,0,13.73,0,2.8,11.3
+354,2024,2024-09-04,Royal Challengers Bangalore,Punjab Kings,Glenn Maxwell,10,6,2,0,166.67,2,1.3,8.33
+355,2021,2023-01-04,Chennai Super Kings,Rajasthan Royals,Deepak Chahar,10,5,2,0,200.0,3,3.0,7.77
+356,2025,2024-12-16,Lucknow Super Giants,Chennai Super Kings,Marcus Stoinis,31,51,7,0,60.78,0,2.9,6.33
+357,2025,2024-11-08,Lucknow Super Giants,Mumbai Indians,KL Rahul,20,64,5,0,31.25,1,3.6,5.77
+358,2024,2022-10-22,Rajasthan Royals,Kolkata Knight Riders,Yashasvi Jaiswal,16,8,3,0,200.0,0,1.7,8.69
+359,2025,2023-10-03,Punjab Kings,Chennai Super Kings,Sam Curran,7,25,1,0,28.0,0,2.2,9.43
+360,2021,2024-05-26,Chennai Super Kings,Rajasthan Royals,Devon Conway,29,18,5,1,161.11,1,3.4,11.62
+361,2023,2024-12-06,Gujarat Titans,Punjab Kings,Mohammed Shami,45,28,7,1,160.71,0,3.0,5.22
+362,2023,2023-05-26,Delhi Capitals,Royal Challengers Bangalore,Kuldeep Yadav,13,49,0,2,26.53,0,3.5,10.84
+363,2024,2022-05-07,Chennai Super Kings,Rajasthan Royals,Devon Conway,7,17,1,0,41.18,0,3.3,10.65
+364,2021,2025-01-06,Sunrisers Hyderabad,Mumbai Indians,Pat Cummins,15,42,3,0,35.71,0,3.9,6.22
+365,2024,2021-07-09,Mumbai Indians,Lucknow Super Giants,Jasprit Bumrah,55,40,9,3,137.5,2,3.3,12.12
+366,2025,2023-06-03,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,76,47,9,5,161.7,0,2.2,12.64
+367,2022,2022-11-24,Delhi Capitals,Punjab Kings,Axar Patel,17,33,2,1,51.52,0,3.7,9.09
+368,2025,2022-06-20,Rajasthan Royals,Lucknow Super Giants,Trent Boult,13,17,3,0,76.47,0,3.8,6.21
+369,2022,2024-10-26,Gujarat Titans,Lucknow Super Giants,Mohammed Shami,45,25,1,5,180.0,0,2.7,12.36
+370,2024,2021-04-27,Gujarat Titans,Delhi Capitals,Rahul Tewatia,13,38,0,2,34.21,0,3.0,6.72
+371,2022,2021-08-06,Delhi Capitals,Rajasthan Royals,David Warner,37,49,3,0,75.51,0,2.4,9.88
+372,2025,2022-07-31,Kolkata Knight Riders,Lucknow Super Giants,Sunil Narine,36,37,9,0,97.3,2,2.2,12.47
+373,2023,2022-08-28,Gujarat Titans,Mumbai Indians,Shubman Gill,28,17,3,2,164.71,1,2.6,9.79
+374,2022,2025-01-28,Delhi Capitals,Gujarat Titans,David Warner,5,9,1,0,55.56,0,2.3,9.43
+375,2022,2023-02-06,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,19,34,0,2,55.88,2,2.8,11.08
+376,2025,2024-05-01,Delhi Capitals,Gujarat Titans,Kuldeep Yadav,4,27,1,0,14.81,2,2.6,11.18
+377,2022,2023-07-06,Sunrisers Hyderabad,Lucknow Super Giants,Bhuvneshwar Kumar,11,10,2,0,110.0,0,2.0,7.43
+378,2025,2024-11-20,Gujarat Titans,Punjab Kings,Rashid Khan,1,5,0,0,20.0,0,3.7,9.86
+379,2025,2023-01-18,Kolkata Knight Riders,Mumbai Indians,Varun Chakravarthy,58,29,1,6,200.0,0,3.2,5.39
+380,2025,2023-09-30,Rajasthan Royals,Lucknow Super Giants,Ravichandran Ashwin,5,36,1,0,13.89,0,1.2,5.93
+381,2025,2021-08-13,Gujarat Titans,Mumbai Indians,Mohammed Shami,13,18,3,0,72.22,1,1.6,11.5
+382,2024,2023-10-28,Chennai Super Kings,Kolkata Knight Riders,Ruturaj Gaikwad,42,50,0,1,84.0,0,1.5,7.11
+383,2021,2023-07-14,Lucknow Super Giants,Kolkata Knight Riders,Ayush Badoni,28,29,7,0,96.55,0,1.1,10.32
+384,2025,2024-07-13,Mumbai Indians,Royal Challengers Bangalore,Jasprit Bumrah,11,7,1,1,157.14,2,1.3,11.18
+385,2023,2023-09-14,Lucknow Super Giants,Chennai Super Kings,Ayush Badoni,25,29,6,0,86.21,0,2.6,6.24
+386,2024,2022-01-21,Gujarat Titans,Delhi Capitals,Mohammed Shami,43,24,10,0,179.17,2,1.0,11.85
+387,2022,2024-06-16,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,50,43,8,1,116.28,0,3.2,12.07
+388,2023,2024-02-14,Kolkata Knight Riders,Punjab Kings,Varun Chakravarthy,5,14,1,0,35.71,0,1.8,6.07
+389,2025,2024-11-11,Mumbai Indians,Lucknow Super Giants,Hardik Pandya,9,40,2,0,22.5,0,1.6,9.61
+390,2023,2024-12-03,Rajasthan Royals,Royal Challengers Bangalore,Trent Boult,6,20,1,0,30.0,2,2.0,8.62
+391,2025,2024-06-04,Delhi Capitals,Royal Challengers Bangalore,Kuldeep Yadav,51,28,5,5,182.14,0,1.9,11.17
+392,2024,2025-01-21,Delhi Capitals,Sunrisers Hyderabad,David Warner,42,51,7,2,82.35,0,3.3,8.9
+393,2021,2022-01-12,Royal Challengers Bangalore,Chennai Super Kings,Glenn Maxwell,68,62,3,4,109.68,1,2.9,10.73
+394,2021,2024-06-29,Gujarat Titans,Mumbai Indians,Rashid Khan,49,30,9,2,163.33,2,2.7,9.33
+395,2025,2023-06-13,Punjab Kings,Royal Challengers Bangalore,Jitesh Sharma,37,19,4,2,194.74,0,2.5,8.22
+396,2025,2025-01-31,Mumbai Indians,Delhi Capitals,Tilak Varma,24,15,6,0,160.0,0,1.5,12.41
+397,2022,2022-06-23,Punjab Kings,Rajasthan Royals,Shikhar Dhawan,62,53,3,1,116.98,0,1.7,10.28
+398,2025,2023-10-19,Rajasthan Royals,Punjab Kings,Shimron Hetmyer,5,61,0,0,8.2,0,3.9,10.02
+399,2023,2022-03-23,Delhi Capitals,Lucknow Super Giants,Kuldeep Yadav,41,29,6,2,141.38,0,3.7,5.79
+400,2023,2023-07-11,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,52,27,5,5,192.59,1,3.7,5.25
+401,2022,2021-09-05,Punjab Kings,Royal Challengers Bangalore,Liam Livingstone,35,37,3,2,94.59,0,2.1,10.65
+402,2021,2025-04-15,Kolkata Knight Riders,Punjab Kings,Andre Russell,15,12,3,0,125.0,0,2.8,10.12
+403,2024,2021-12-18,Mumbai Indians,Delhi Capitals,Rohit Sharma,75,41,2,2,182.93,0,1.1,9.55
+404,2021,2024-02-23,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,38,30,9,0,126.67,1,3.2,11.44
+405,2021,2023-11-22,Kolkata Knight Riders,Gujarat Titans,Venkatesh Iyer,61,60,2,3,101.67,1,2.8,11.24
+406,2022,2022-03-10,Lucknow Super Giants,Gujarat Titans,Ayush Badoni,87,51,5,7,170.59,0,1.2,8.07
+407,2022,2024-03-06,Chennai Super Kings,Mumbai Indians,MS Dhoni,64,60,10,4,106.67,1,2.8,6.55
+408,2025,2024-01-26,Lucknow Super Giants,Mumbai Indians,Krunal Pandya,15,53,1,1,28.3,0,3.7,9.3
+409,2021,2023-04-29,Sunrisers Hyderabad,Lucknow Super Giants,Aiden Markram,5,60,1,0,8.33,0,3.4,11.2
+410,2024,2021-12-31,Rajasthan Royals,Chennai Super Kings,Shimron Hetmyer,30,21,3,1,142.86,0,3.6,8.31
+411,2022,2024-03-06,Mumbai Indians,Chennai Super Kings,Tilak Varma,16,12,0,2,133.33,0,3.1,7.6
+412,2023,2024-11-25,Chennai Super Kings,Kolkata Knight Riders,Shivam Dube,32,42,4,2,76.19,0,2.8,12.74
+413,2024,2024-05-16,Kolkata Knight Riders,Punjab Kings,Venkatesh Iyer,22,35,5,0,62.86,0,1.9,7.82
+414,2024,2022-07-15,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,20,33,1,2,60.61,0,3.4,11.29
+415,2025,2024-10-24,Mumbai Indians,Kolkata Knight Riders,Hardik Pandya,1,5,0,0,20.0,2,2.3,5.69
+416,2022,2021-06-17,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,49,51,6,4,96.08,0,2.8,12.39
+417,2022,2022-05-19,Punjab Kings,Gujarat Titans,Shikhar Dhawan,84,59,8,4,142.37,0,3.4,9.08
+418,2022,2021-06-13,Lucknow Super Giants,Royal Challengers Bangalore,Ravi Bishnoi,15,28,3,0,53.57,3,1.3,7.3
+419,2024,2024-07-14,Rajasthan Royals,Punjab Kings,Shimron Hetmyer,33,17,0,1,194.12,2,2.6,10.72
+420,2025,2022-10-19,Lucknow Super Giants,Rajasthan Royals,Ayush Badoni,38,19,3,4,200.0,2,2.7,7.18
+421,2024,2021-08-27,Gujarat Titans,Chennai Super Kings,Rashid Khan,37,37,5,1,100.0,1,3.9,11.86
+422,2025,2024-05-28,Delhi Capitals,Gujarat Titans,Prithvi Shaw,31,35,5,1,88.57,0,3.7,11.75
+423,2024,2023-05-24,Chennai Super Kings,Rajasthan Royals,Ruturaj Gaikwad,28,45,7,0,62.22,1,2.2,7.88
+424,2025,2022-11-10,Mumbai Indians,Rajasthan Royals,Suryakumar Yadav,12,10,3,0,120.0,0,3.8,8.82
+425,2023,2025-01-29,Kolkata Knight Riders,Rajasthan Royals,Rinku Singh,24,64,6,0,37.5,0,1.7,7.22
+426,2022,2023-03-31,Kolkata Knight Riders,Delhi Capitals,Venkatesh Iyer,24,14,1,1,171.43,2,3.0,10.24
+427,2025,2023-12-14,Mumbai Indians,Lucknow Super Giants,Rohit Sharma,39,28,5,3,139.29,1,3.6,9.57
+428,2023,2022-10-26,Punjab Kings,Royal Challengers Bangalore,Arshdeep Singh,14,30,3,0,46.67,0,3.4,8.84
+429,2025,2023-06-16,Mumbai Indians,Lucknow Super Giants,Ishan Kishan,87,60,2,7,145.0,3,3.1,8.7
+430,2021,2024-07-03,Mumbai Indians,Delhi Capitals,Hardik Pandya,10,11,2,0,90.91,0,1.8,7.25
+431,2025,2024-01-17,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,26,32,6,0,81.25,0,2.2,8.63
+432,2025,2025-04-16,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,15,22,3,0,68.18,1,1.6,11.28
+433,2022,2023-08-12,Punjab Kings,Mumbai Indians,Liam Livingstone,17,36,4,0,47.22,1,1.9,9.47
+434,2025,2025-02-13,Mumbai Indians,Punjab Kings,Rohit Sharma,1,15,0,0,6.67,0,2.9,8.62
+435,2023,2024-05-22,Delhi Capitals,Sunrisers Hyderabad,Axar Patel,32,40,5,0,80.0,0,2.1,10.36
+436,2025,2022-11-04,Kolkata Knight Riders,Lucknow Super Giants,Rinku Singh,20,27,5,0,74.07,1,2.3,5.8
+437,2025,2022-01-22,Delhi Capitals,Gujarat Titans,Anrich Nortje,21,60,5,0,35.0,0,2.8,8.28
+438,2021,2022-07-12,Chennai Super Kings,Kolkata Knight Riders,Ravindra Jadeja,20,25,5,0,80.0,0,2.8,8.21
+439,2024,2023-07-27,Rajasthan Royals,Lucknow Super Giants,Shimron Hetmyer,5,15,0,0,33.33,1,3.0,12.35
+440,2021,2021-10-28,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,2,11,0,0,18.18,0,2.2,11.01
+441,2021,2022-02-13,Chennai Super Kings,Rajasthan Royals,Devon Conway,20,10,5,0,200.0,0,3.2,8.57
+442,2022,2021-05-29,Royal Challengers Bangalore,Lucknow Super Giants,Faf du Plessis,10,7,2,0,142.86,1,2.4,11.82
+443,2023,2025-02-27,Gujarat Titans,Punjab Kings,Sai Sudharsan,22,39,5,0,56.41,0,2.9,9.49
+444,2025,2023-12-13,Gujarat Titans,Delhi Capitals,David Miller,29,39,1,4,74.36,0,2.2,6.38
+445,2021,2023-03-06,Mumbai Indians,Lucknow Super Giants,Suryakumar Yadav,30,23,7,0,130.43,0,2.5,10.94
+446,2023,2024-08-05,Mumbai Indians,Punjab Kings,Ishan Kishan,0,19,0,0,0.0,0,3.6,8.52
+447,2022,2022-06-26,Royal Challengers Bangalore,Punjab Kings,Rajat Patidar,5,21,1,0,23.81,0,3.4,9.86
+448,2023,2023-07-25,Delhi Capitals,Lucknow Super Giants,Axar Patel,4,17,1,0,23.53,0,2.9,9.89
+449,2023,2023-01-17,Lucknow Super Giants,Punjab Kings,Nicholas Pooran,2,6,0,0,33.33,0,1.3,7.25
+450,2024,2022-02-03,Mumbai Indians,Delhi Capitals,Rohit Sharma,7,5,1,0,140.0,0,3.4,8.99
+451,2023,2021-09-12,Punjab Kings,Mumbai Indians,Jitesh Sharma,96,58,2,0,165.52,0,2.2,9.33
+452,2022,2021-04-26,Kolkata Knight Riders,Rajasthan Royals,Sunil Narine,24,12,3,2,200.0,1,2.3,10.81
+453,2021,2021-10-10,Kolkata Knight Riders,Gujarat Titans,Varun Chakravarthy,26,38,6,0,68.42,0,1.9,7.66
+454,2021,2022-09-01,Gujarat Titans,Lucknow Super Giants,Shubman Gill,38,35,3,4,108.57,1,3.6,6.86
+455,2021,2021-05-01,Kolkata Knight Riders,Punjab Kings,Andre Russell,25,15,4,1,166.67,0,1.7,12.56
+456,2025,2021-10-01,Punjab Kings,Royal Challengers Bangalore,Jitesh Sharma,10,20,2,0,50.0,0,2.0,12.57
+457,2021,2022-02-10,Mumbai Indians,Sunrisers Hyderabad,Jasprit Bumrah,68,49,1,2,138.78,0,2.0,9.44
+458,2023,2025-02-10,Punjab Kings,Kolkata Knight Riders,Shikhar Dhawan,22,29,2,2,75.86,1,2.5,8.53
+459,2023,2024-06-04,Gujarat Titans,Punjab Kings,Sai Sudharsan,22,16,5,0,137.5,0,3.5,12.15
+460,2025,2022-02-12,Royal Challengers Bangalore,Chennai Super Kings,Dinesh Karthik,37,33,4,3,112.12,0,3.3,9.05
+461,2022,2022-08-03,Mumbai Indians,Sunrisers Hyderabad,Tilak Varma,46,25,1,6,184.0,0,3.0,11.02
+462,2022,2023-07-19,Lucknow Super Giants,Delhi Capitals,Ayush Badoni,41,46,1,1,89.13,0,1.2,11.55
+463,2022,2021-11-06,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,24,36,1,0,66.67,0,3.5,10.2
+464,2025,2023-04-21,Lucknow Super Giants,Delhi Capitals,KL Rahul,38,19,1,0,200.0,2,1.6,8.93
+465,2021,2024-05-17,Punjab Kings,Mumbai Indians,Jitesh Sharma,53,52,5,0,101.92,1,1.8,5.51
+466,2021,2024-02-28,Delhi Capitals,Chennai Super Kings,David Warner,3,11,0,0,27.27,0,2.6,7.09
+467,2022,2021-11-03,Gujarat Titans,Lucknow Super Giants,Rahul Tewatia,81,54,9,5,150.0,0,3.1,8.45
+468,2021,2023-07-02,Royal Challengers Bangalore,Kolkata Knight Riders,Dinesh Karthik,43,37,10,0,116.22,0,2.8,12.29
+469,2023,2023-07-24,Gujarat Titans,Rajasthan Royals,David Miller,81,53,6,5,152.83,0,2.7,6.83
+470,2025,2023-10-04,Delhi Capitals,Sunrisers Hyderabad,Prithvi Shaw,0,30,0,0,0.0,0,2.6,12.75
+471,2023,2022-06-14,Mumbai Indians,Rajasthan Royals,Suryakumar Yadav,40,59,0,4,67.8,2,2.5,9.54
+472,2025,2023-10-30,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,9,27,2,0,33.33,0,2.7,6.97
+473,2023,2022-06-20,Chennai Super Kings,Punjab Kings,Devon Conway,9,51,2,0,17.65,0,3.5,10.44
+474,2025,2025-05-06,Chennai Super Kings,Rajasthan Royals,Ruturaj Gaikwad,73,56,6,1,130.36,1,3.8,7.74
+475,2024,2024-11-27,Sunrisers Hyderabad,Chennai Super Kings,Travis Head,77,59,0,6,130.51,0,2.6,7.63
+476,2025,2025-02-28,Royal Challengers Bangalore,Sunrisers Hyderabad,Dinesh Karthik,9,19,0,1,47.37,3,3.3,9.57
+477,2021,2023-06-17,Kolkata Knight Riders,Punjab Kings,Andre Russell,4,14,1,0,28.57,0,3.2,9.37
+478,2023,2023-09-07,Chennai Super Kings,Punjab Kings,Devon Conway,89,54,2,2,164.81,0,1.6,8.2
+479,2025,2024-03-09,Kolkata Knight Riders,Lucknow Super Giants,Venkatesh Iyer,15,20,1,1,75.0,1,2.0,12.22
+480,2021,2023-04-19,Chennai Super Kings,Punjab Kings,Shivam Dube,12,27,3,0,44.44,0,1.1,7.52
+481,2023,2022-01-24,Lucknow Super Giants,Punjab Kings,Krunal Pandya,5,33,1,0,15.15,0,1.5,10.74
+482,2021,2024-09-23,Chennai Super Kings,Mumbai Indians,MS Dhoni,18,64,4,0,28.12,0,3.4,7.52
+483,2024,2024-04-06,Mumbai Indians,Sunrisers Hyderabad,Suryakumar Yadav,13,18,3,0,72.22,0,2.9,12.74
+484,2021,2022-09-06,Sunrisers Hyderabad,Lucknow Super Giants,Abhishek Sharma,1,15,0,0,6.67,1,2.9,5.6
+485,2021,2022-10-08,Chennai Super Kings,Punjab Kings,Deepak Chahar,84,47,5,1,178.72,0,3.6,10.14
+486,2022,2021-10-21,Sunrisers Hyderabad,Lucknow Super Giants,Pat Cummins,40,62,7,1,64.52,0,2.5,8.68
+487,2021,2022-12-16,Mumbai Indians,Delhi Capitals,Tilak Varma,31,26,6,1,119.23,0,3.1,7.9
+488,2023,2021-08-05,Kolkata Knight Riders,Lucknow Super Giants,Andre Russell,32,45,6,0,71.11,2,3.8,6.91
+489,2023,2025-05-04,Sunrisers Hyderabad,Royal Challengers Bangalore,Abhishek Sharma,33,29,8,0,113.79,0,2.7,8.44
+490,2023,2024-04-15,Lucknow Super Giants,Rajasthan Royals,Marcus Stoinis,6,13,1,0,46.15,0,3.1,6.74
+491,2022,2023-08-29,Delhi Capitals,Lucknow Super Giants,David Warner,98,63,2,2,155.56,0,2.7,12.41
+492,2021,2025-04-29,Royal Challengers Bangalore,Sunrisers Hyderabad,Faf du Plessis,12,6,3,0,200.0,2,1.9,10.87
+493,2023,2021-12-26,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,1,16,0,0,6.25,0,2.8,9.73
+494,2022,2025-02-08,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,61,54,2,7,112.96,0,2.1,11.68
+495,2024,2022-05-01,Punjab Kings,Royal Challengers Bangalore,Liam Livingstone,2,19,0,0,10.53,2,3.9,6.89
+496,2022,2023-09-17,Kolkata Knight Riders,Chennai Super Kings,Rinku Singh,78,60,7,5,130.0,1,3.7,8.45
+497,2021,2023-01-01,Lucknow Super Giants,Sunrisers Hyderabad,Ravi Bishnoi,39,30,9,0,130.0,0,2.4,11.49
+498,2021,2023-06-20,Kolkata Knight Riders,Lucknow Super Giants,Venkatesh Iyer,5,52,1,0,9.62,0,2.9,5.57
+499,2023,2022-11-07,Punjab Kings,Sunrisers Hyderabad,Jitesh Sharma,21,34,5,0,61.76,0,1.2,9.13
+500,2022,2025-04-19,Punjab Kings,Gujarat Titans,Shikhar Dhawan,14,37,2,1,37.84,0,2.0,5.3
+ 501,2024,2021-10-02,Lucknow Super Giants,Kolkata Knight Riders,Marcus Stoinis,20,21,5,0,95.24,0,1.4,6.07
+502,2024,2025-03-19,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,46,29,8,2,158.62,0,2.1,11.04
+503,2023,2022-01-22,Lucknow Super Giants,Royal Challengers Bangalore,Nicholas Pooran,3,16,0,0,18.75,0,3.3,8.59
+504,2022,2021-04-08,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,32,44,0,5,72.73,0,2.5,11.34
+505,2025,2024-07-19,Punjab Kings,Kolkata Knight Riders,Liam Livingstone,60,47,7,5,127.66,0,2.8,5.25
+506,2025,2021-07-10,Delhi Capitals,Lucknow Super Giants,David Warner,9,16,0,1,56.25,0,3.6,10.27
+507,2025,2021-07-10,Delhi Capitals,Sunrisers Hyderabad,Rishabh Pant,13,11,2,0,118.18,0,2.8,10.46
+508,2025,2023-10-20,Lucknow Super Giants,Gujarat Titans,Nicholas Pooran,74,52,5,0,142.31,0,1.9,8.0
+509,2024,2021-08-11,Chennai Super Kings,Punjab Kings,Devon Conway,30,23,2,1,130.43,0,1.8,9.21
+510,2025,2021-07-29,Kolkata Knight Riders,Delhi Capitals,Venkatesh Iyer,18,11,4,0,163.64,0,3.1,12.3
+511,2023,2024-03-12,Sunrisers Hyderabad,Rajasthan Royals,Heinrich Klaasen,79,41,5,2,192.68,0,2.5,10.74
+512,2024,2022-07-21,Punjab Kings,Royal Challengers Bangalore,Arshdeep Singh,37,50,3,0,74.0,0,2.4,11.26
+513,2022,2021-07-03,Lucknow Super Giants,Sunrisers Hyderabad,Marcus Stoinis,22,26,5,0,84.62,0,1.6,7.34
+514,2021,2024-05-01,Delhi Capitals,Rajasthan Royals,Kuldeep Yadav,49,25,0,1,196.0,0,2.0,10.71
+515,2025,2023-02-06,Mumbai Indians,Kolkata Knight Riders,Suryakumar Yadav,43,58,10,0,74.14,2,3.4,10.11
+516,2024,2023-02-16,Royal Challengers Bangalore,Gujarat Titans,Dinesh Karthik,52,34,0,4,152.94,0,3.0,9.42
+517,2021,2021-08-14,Kolkata Knight Riders,Sunrisers Hyderabad,Andre Russell,8,14,0,1,57.14,3,2.9,11.6
+518,2025,2024-08-01,Lucknow Super Giants,Sunrisers Hyderabad,Nicholas Pooran,24,12,4,1,200.0,0,1.8,5.86
+519,2022,2022-06-17,Rajasthan Royals,Gujarat Titans,Yashasvi Jaiswal,38,38,2,1,100.0,0,1.1,6.74
+520,2021,2023-12-15,Punjab Kings,Lucknow Super Giants,Shikhar Dhawan,64,62,2,3,103.23,0,2.5,11.84
+521,2023,2024-02-22,Rajasthan Royals,Royal Challengers Bangalore,Sanju Samson,16,48,3,0,33.33,0,3.1,9.17
+522,2021,2024-07-31,Delhi Capitals,Mumbai Indians,Anrich Nortje,11,60,2,0,18.33,1,1.3,11.02
+523,2023,2022-06-04,Mumbai Indians,Rajasthan Royals,Jasprit Bumrah,12,25,3,0,48.0,0,2.0,8.55
+524,2021,2022-10-13,Delhi Capitals,Royal Challengers Bangalore,David Warner,0,12,0,0,0.0,0,2.1,7.62
+525,2022,2021-08-24,Delhi Capitals,Kolkata Knight Riders,David Warner,39,24,5,3,162.5,0,1.1,12.07
+526,2021,2021-09-24,Chennai Super Kings,Punjab Kings,Ruturaj Gaikwad,50,32,2,7,156.25,0,1.9,11.41
+527,2025,2021-12-26,Chennai Super Kings,Gujarat Titans,Devon Conway,14,10,1,1,140.0,0,2.9,11.03
+528,2024,2024-09-15,Kolkata Knight Riders,Delhi Capitals,Rinku Singh,23,21,5,0,109.52,0,3.0,11.19
+529,2023,2021-08-12,Punjab Kings,Gujarat Titans,Shikhar Dhawan,14,35,3,0,40.0,0,1.5,11.04
+530,2025,2021-10-28,Lucknow Super Giants,Royal Challengers Bangalore,Krunal Pandya,52,30,1,5,173.33,0,1.2,7.5
+531,2024,2024-09-23,Sunrisers Hyderabad,Punjab Kings,Travis Head,35,20,2,4,175.0,0,2.0,11.39
+532,2025,2023-03-02,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,30,39,2,1,76.92,1,3.1,11.56
+533,2021,2024-05-11,Lucknow Super Giants,Punjab Kings,Ayush Badoni,14,11,2,1,127.27,2,1.2,6.03
+534,2025,2024-11-11,Sunrisers Hyderabad,Rajasthan Royals,Aiden Markram,7,47,1,0,14.89,1,3.7,12.06
+535,2021,2024-03-24,Royal Challengers Bangalore,Kolkata Knight Riders,Rajat Patidar,24,23,6,0,104.35,0,3.0,7.61
+536,2025,2023-03-07,Delhi Capitals,Punjab Kings,Anrich Nortje,18,10,0,3,180.0,1,3.6,5.67
+537,2025,2024-05-21,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,45,57,1,4,78.95,1,1.7,10.54
+538,2024,2023-05-22,Rajasthan Royals,Punjab Kings,Shimron Hetmyer,27,32,6,0,84.38,0,1.6,8.12
+539,2023,2025-01-02,Sunrisers Hyderabad,Royal Challengers Bangalore,Heinrich Klaasen,4,13,0,0,30.77,0,1.4,11.93
+540,2024,2024-11-06,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,53,56,7,4,94.64,0,2.4,8.42
+541,2024,2022-04-16,Sunrisers Hyderabad,Rajasthan Royals,Travis Head,0,32,0,0,0.0,1,1.7,9.01
+542,2024,2021-06-17,Gujarat Titans,Rajasthan Royals,Shubman Gill,61,41,5,1,148.78,0,3.9,5.81
+543,2025,2021-09-08,Delhi Capitals,Gujarat Titans,Kuldeep Yadav,11,38,2,0,28.95,0,3.0,10.28
+544,2025,2021-07-18,Lucknow Super Giants,Delhi Capitals,Krunal Pandya,43,62,8,0,69.35,0,2.5,8.77
+545,2023,2022-11-14,Sunrisers Hyderabad,Rajasthan Royals,Heinrich Klaasen,1,15,0,0,6.67,1,2.7,5.67
+546,2024,2021-07-15,Lucknow Super Giants,Royal Challengers Bangalore,Krunal Pandya,37,47,9,0,78.72,0,1.2,9.04
+547,2023,2022-10-28,Delhi Capitals,Royal Challengers Bangalore,Kuldeep Yadav,16,22,0,1,72.73,0,3.7,10.82
+548,2024,2025-03-06,Rajasthan Royals,Royal Challengers Bangalore,Yashasvi Jaiswal,31,20,2,0,155.0,0,1.3,6.3
+549,2022,2022-08-01,Punjab Kings,Sunrisers Hyderabad,Sam Curran,56,47,10,2,119.15,0,3.2,7.82
+550,2023,2023-11-07,Chennai Super Kings,Mumbai Indians,MS Dhoni,30,30,4,2,100.0,1,3.3,9.25
+551,2024,2022-01-23,Sunrisers Hyderabad,Gujarat Titans,Heinrich Klaasen,55,38,0,4,144.74,2,2.3,10.36
+552,2025,2024-10-27,Mumbai Indians,Royal Challengers Bangalore,Tilak Varma,54,27,6,4,200.0,0,1.8,5.95
+553,2025,2022-08-09,Sunrisers Hyderabad,Gujarat Titans,Pat Cummins,86,51,9,3,168.63,0,3.0,12.75
+554,2023,2021-04-18,Gujarat Titans,Mumbai Indians,Mohammed Shami,8,58,0,1,13.79,0,1.3,8.59
+555,2022,2021-06-09,Delhi Capitals,Rajasthan Royals,David Warner,9,6,1,0,150.0,2,3.0,11.55
+556,2025,2024-08-21,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,12,13,3,0,92.31,1,3.1,7.13
+557,2024,2023-08-23,Chennai Super Kings,Gujarat Titans,Ravindra Jadeja,85,49,5,4,173.47,0,1.2,11.11
+558,2024,2022-09-11,Sunrisers Hyderabad,Rajasthan Royals,Abhishek Sharma,33,57,2,4,57.89,0,3.9,6.73
+559,2024,2022-01-20,Royal Challengers Bangalore,Gujarat Titans,Virat Kohli,55,39,3,1,141.03,2,3.1,5.98
+560,2021,2021-05-09,Chennai Super Kings,Rajasthan Royals,Shivam Dube,63,62,2,0,101.61,2,3.0,7.22
+561,2023,2025-03-20,Sunrisers Hyderabad,Mumbai Indians,Bhuvneshwar Kumar,98,65,7,7,150.77,0,3.5,11.14
+562,2021,2023-05-28,Gujarat Titans,Kolkata Knight Riders,Shubman Gill,61,49,1,5,124.49,0,1.9,5.62
+563,2021,2021-09-12,Rajasthan Royals,Lucknow Super Giants,Yashasvi Jaiswal,58,58,4,3,100.0,0,1.1,8.12
+564,2022,2024-10-13,Delhi Capitals,Punjab Kings,Rishabh Pant,45,49,7,1,91.84,1,2.3,6.64
+565,2021,2024-07-28,Kolkata Knight Riders,Mumbai Indians,Varun Chakravarthy,31,20,6,1,155.0,1,2.9,9.0
+566,2024,2021-07-24,Mumbai Indians,Chennai Super Kings,Ishan Kishan,50,26,0,6,192.31,0,3.4,10.27
+567,2024,2024-06-30,Gujarat Titans,Royal Challengers Bangalore,Mohammed Shami,4,19,0,0,21.05,0,1.1,12.09
+568,2025,2024-11-19,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,0,13,0,0,0.0,2,3.5,5.94
+569,2025,2021-11-20,Royal Challengers Bangalore,Chennai Super Kings,Virat Kohli,28,36,1,3,77.78,0,3.4,12.66
+570,2024,2024-06-23,Rajasthan Royals,Chennai Super Kings,Trent Boult,17,39,4,0,43.59,1,2.8,7.75
+571,2021,2022-03-11,Delhi Capitals,Royal Challengers Bangalore,Prithvi Shaw,47,49,8,2,95.92,0,3.8,5.51
+572,2021,2021-05-03,Lucknow Super Giants,Sunrisers Hyderabad,Nicholas Pooran,62,61,1,0,101.64,0,3.8,10.57
+573,2025,2023-12-01,Delhi Capitals,Punjab Kings,Anrich Nortje,16,49,3,0,32.65,0,2.6,8.33
+574,2022,2022-04-04,Lucknow Super Giants,Mumbai Indians,Krunal Pandya,63,50,9,1,126.0,0,3.3,7.84
+575,2021,2021-11-27,Gujarat Titans,Kolkata Knight Riders,Sai Sudharsan,12,38,3,0,31.58,1,4.0,9.06
+576,2024,2022-05-02,Kolkata Knight Riders,Rajasthan Royals,Shreyas Iyer,4,12,1,0,33.33,0,1.5,12.21
+577,2021,2023-09-08,Rajasthan Royals,Delhi Capitals,Jos Buttler,21,21,5,0,100.0,0,3.2,12.23
+578,2022,2024-02-19,Royal Challengers Bangalore,Mumbai Indians,Rajat Patidar,2,12,0,0,16.67,0,2.0,6.71
+579,2023,2022-07-11,Kolkata Knight Riders,Chennai Super Kings,Andre Russell,7,11,1,0,63.64,0,1.7,8.78
+580,2024,2022-06-17,Mumbai Indians,Punjab Kings,Suryakumar Yadav,78,64,7,2,121.88,0,1.4,10.67
+581,2023,2021-12-17,Delhi Capitals,Kolkata Knight Riders,Axar Patel,11,7,2,0,157.14,0,1.3,8.74
+582,2024,2022-11-26,Royal Challengers Bangalore,Sunrisers Hyderabad,Faf du Plessis,20,43,5,0,46.51,0,2.7,6.95
+583,2024,2024-07-25,Gujarat Titans,Punjab Kings,Sai Sudharsan,59,35,4,0,168.57,1,3.2,7.07
+584,2023,2022-01-31,Sunrisers Hyderabad,Kolkata Knight Riders,Bhuvneshwar Kumar,73,63,0,6,115.87,3,1.1,8.78
+585,2025,2023-06-17,Mumbai Indians,Punjab Kings,Tilak Varma,12,35,3,0,34.29,0,2.7,5.29
+586,2024,2022-11-27,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,5,20,0,0,25.0,0,1.5,8.69
+587,2025,2023-11-06,Lucknow Super Giants,Mumbai Indians,Marcus Stoinis,17,54,4,0,31.48,1,2.1,8.73
+588,2021,2023-02-11,Chennai Super Kings,Punjab Kings,Deepak Chahar,4,38,1,0,10.53,1,3.1,9.86
+589,2025,2023-02-17,Kolkata Knight Riders,Chennai Super Kings,Venkatesh Iyer,7,52,1,0,13.46,1,1.3,7.98
+590,2025,2022-03-25,Mumbai Indians,Sunrisers Hyderabad,Ishan Kishan,71,46,1,3,154.35,0,2.0,9.3
+591,2024,2022-07-06,Lucknow Super Giants,Kolkata Knight Riders,Ravi Bishnoi,22,25,4,1,88.0,0,1.2,7.82
+592,2024,2023-11-19,Gujarat Titans,Lucknow Super Giants,Shubman Gill,68,50,10,4,136.0,0,2.1,10.32
+593,2021,2021-09-12,Kolkata Knight Riders,Gujarat Titans,Shreyas Iyer,57,30,2,4,190.0,2,1.2,6.45
+594,2021,2022-05-24,Royal Challengers Bangalore,Gujarat Titans,Faf du Plessis,2,38,0,0,5.26,2,2.6,6.2
+595,2023,2024-11-11,Sunrisers Hyderabad,Gujarat Titans,Pat Cummins,4,6,1,0,66.67,0,3.4,11.55
+596,2025,2023-03-04,Rajasthan Royals,Punjab Kings,Ravichandran Ashwin,82,46,5,7,178.26,0,3.1,11.6
+597,2024,2021-12-27,Punjab Kings,Delhi Capitals,Arshdeep Singh,39,62,2,4,62.9,0,2.1,7.39
+598,2021,2023-10-21,Royal Challengers Bangalore,Sunrisers Hyderabad,Glenn Maxwell,19,15,2,1,126.67,0,1.5,10.58
+599,2022,2021-06-24,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,36,25,2,4,144.0,0,1.6,9.47
+600,2021,2023-05-04,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,20,33,5,0,60.61,0,1.1,12.28
+601,2022,2021-04-09,Punjab Kings,Rajasthan Royals,Liam Livingstone,69,52,8,5,132.69,0,1.9,12.01
+602,2025,2025-02-10,Royal Challengers Bangalore,Gujarat Titans,Glenn Maxwell,23,12,5,0,191.67,0,2.7,7.54
+603,2024,2023-04-02,Lucknow Super Giants,Kolkata Knight Riders,Marcus Stoinis,10,10,0,1,100.0,0,1.7,12.31
+604,2023,2024-04-07,Kolkata Knight Riders,Mumbai Indians,Shreyas Iyer,57,59,10,1,96.61,3,2.2,8.93
+605,2025,2024-12-26,Lucknow Super Giants,Gujarat Titans,KL Rahul,25,28,2,2,89.29,0,2.1,7.36
+606,2023,2021-09-27,Delhi Capitals,Gujarat Titans,Kuldeep Yadav,28,18,6,0,155.56,0,3.4,12.57
+607,2024,2024-08-07,Sunrisers Hyderabad,Royal Challengers Bangalore,Bhuvneshwar Kumar,4,10,1,0,40.0,0,3.6,12.7
+608,2021,2021-04-14,Lucknow Super Giants,Sunrisers Hyderabad,KL Rahul,40,31,4,4,129.03,0,2.4,9.52
+609,2022,2022-11-14,Kolkata Knight Riders,Royal Challengers Bangalore,Sunil Narine,62,40,0,4,155.0,1,1.9,9.45
+610,2024,2022-02-10,Kolkata Knight Riders,Mumbai Indians,Shreyas Iyer,19,21,4,0,90.48,0,3.0,7.39
+611,2022,2021-12-01,Punjab Kings,Kolkata Knight Riders,Shikhar Dhawan,35,53,7,1,66.04,0,2.1,8.85
+612,2024,2021-12-01,Delhi Capitals,Gujarat Titans,Anrich Nortje,32,28,8,0,114.29,1,1.5,5.64
+613,2023,2022-03-01,Punjab Kings,Royal Challengers Bangalore,Jitesh Sharma,8,8,2,0,100.0,0,3.9,5.57
+614,2023,2022-05-02,Gujarat Titans,Chennai Super Kings,Rashid Khan,80,54,2,1,148.15,0,1.5,7.65
+615,2023,2025-02-28,Delhi Capitals,Rajasthan Royals,Anrich Nortje,46,49,1,5,93.88,1,1.0,9.14
+616,2023,2022-02-28,Punjab Kings,Sunrisers Hyderabad,Jitesh Sharma,6,11,1,0,54.55,1,3.4,9.45
+617,2025,2021-11-20,Gujarat Titans,Lucknow Super Giants,Mohammed Shami,29,31,1,1,93.55,1,3.8,8.84
+618,2023,2024-08-06,Rajasthan Royals,Royal Challengers Bangalore,Shimron Hetmyer,43,38,2,4,113.16,0,3.4,6.89
+619,2022,2022-06-04,Kolkata Knight Riders,Rajasthan Royals,Rinku Singh,2,13,0,0,15.38,0,3.3,10.96
+620,2021,2024-12-12,Kolkata Knight Riders,Chennai Super Kings,Shreyas Iyer,7,37,1,0,18.92,2,1.1,7.49
+621,2021,2022-05-26,Chennai Super Kings,Royal Challengers Bangalore,Devon Conway,25,42,2,2,59.52,0,1.4,10.87
+622,2023,2022-02-23,Lucknow Super Giants,Rajasthan Royals,Ayush Badoni,64,59,9,3,108.47,0,1.2,11.43
+623,2021,2022-04-28,Gujarat Titans,Kolkata Knight Riders,Mohammed Shami,10,23,2,0,43.48,3,1.3,6.83
+624,2025,2024-07-21,Punjab Kings,Rajasthan Royals,Kagiso Rabada,28,16,7,0,175.0,0,2.1,8.09
+625,2022,2021-11-18,Gujarat Titans,Kolkata Knight Riders,Rahul Tewatia,40,53,1,6,75.47,0,1.4,10.99
+626,2023,2023-02-01,Gujarat Titans,Mumbai Indians,Shubman Gill,14,36,3,0,38.89,0,3.2,10.42
+627,2024,2022-11-17,Kolkata Knight Riders,Lucknow Super Giants,Sunil Narine,54,59,3,1,91.53,1,3.4,12.34
+628,2023,2024-01-02,Royal Challengers Bangalore,Mumbai Indians,Mohammed Siraj,13,48,3,0,27.08,0,3.0,6.11
+629,2024,2022-03-12,Sunrisers Hyderabad,Chennai Super Kings,Pat Cummins,11,9,2,0,122.22,0,3.5,8.27
+630,2022,2025-04-01,Sunrisers Hyderabad,Gujarat Titans,Heinrich Klaasen,74,54,9,4,137.04,1,3.4,12.37
+631,2023,2024-02-12,Punjab Kings,Sunrisers Hyderabad,Sam Curran,9,22,2,0,40.91,0,2.5,6.95
+632,2022,2021-07-18,Mumbai Indians,Royal Challengers Bangalore,Jasprit Bumrah,8,58,2,0,13.79,3,2.1,10.36
+633,2022,2024-12-14,Delhi Capitals,Chennai Super Kings,Rishabh Pant,66,53,7,6,124.53,0,3.0,8.93
+634,2023,2024-04-24,Gujarat Titans,Rajasthan Royals,Rashid Khan,12,6,0,2,200.0,1,1.4,8.62
+635,2024,2021-06-07,Punjab Kings,Gujarat Titans,Shikhar Dhawan,19,16,2,1,118.75,0,1.9,8.16
+636,2021,2024-05-09,Lucknow Super Giants,Punjab Kings,Ravi Bishnoi,69,48,9,5,143.75,0,3.6,9.05
+637,2024,2023-05-14,Delhi Capitals,Gujarat Titans,Kuldeep Yadav,86,44,5,4,195.45,0,1.1,5.54
+638,2023,2023-02-28,Rajasthan Royals,Mumbai Indians,Trent Boult,6,29,1,0,20.69,3,2.2,5.63
+639,2022,2022-12-31,Kolkata Knight Riders,Delhi Capitals,Varun Chakravarthy,10,42,1,1,23.81,0,1.5,9.29
+640,2021,2024-02-19,Punjab Kings,Sunrisers Hyderabad,Arshdeep Singh,53,62,4,0,85.48,0,2.8,12.69
+641,2024,2024-06-16,Lucknow Super Giants,Sunrisers Hyderabad,Ayush Badoni,15,11,1,1,136.36,0,2.5,11.01
+642,2023,2023-09-10,Royal Challengers Bangalore,Rajasthan Royals,Glenn Maxwell,31,17,7,0,182.35,1,2.6,7.38
+643,2021,2024-10-01,Delhi Capitals,Punjab Kings,David Warner,11,52,2,0,21.15,0,1.8,9.5
+644,2025,2023-03-13,Punjab Kings,Sunrisers Hyderabad,Liam Livingstone,9,55,2,0,16.36,0,1.9,10.24
+645,2023,2022-08-28,Kolkata Knight Riders,Punjab Kings,Sunil Narine,65,44,7,2,147.73,1,2.9,9.12
+646,2022,2024-12-14,Lucknow Super Giants,Punjab Kings,Nicholas Pooran,95,57,7,4,166.67,2,2.6,9.87
+647,2024,2022-05-16,Lucknow Super Giants,Mumbai Indians,Krunal Pandya,29,28,2,3,103.57,0,3.1,7.48
+648,2024,2024-10-20,Sunrisers Hyderabad,Rajasthan Royals,Abhishek Sharma,26,18,4,1,144.44,0,1.8,9.77
+649,2024,2022-04-29,Kolkata Knight Riders,Chennai Super Kings,Rinku Singh,3,6,0,0,50.0,0,4.0,8.41
+650,2021,2022-01-05,Kolkata Knight Riders,Royal Challengers Bangalore,Andre Russell,4,6,1,0,66.67,0,1.1,10.69
+651,2021,2024-08-15,Mumbai Indians,Royal Challengers Bangalore,Ishan Kishan,4,24,1,0,16.67,0,3.7,8.22
+652,2022,2024-01-20,Kolkata Knight Riders,Chennai Super Kings,Venkatesh Iyer,15,64,3,0,23.44,0,1.3,9.76
+653,2023,2022-07-28,Rajasthan Royals,Punjab Kings,Trent Boult,54,64,3,2,84.38,0,1.6,7.29
+654,2024,2024-03-28,Delhi Capitals,Mumbai Indians,Prithvi Shaw,44,28,1,5,157.14,0,2.4,7.07
+655,2023,2025-04-05,Royal Challengers Bangalore,Sunrisers Hyderabad,Rajat Patidar,52,28,4,0,185.71,0,3.7,5.46
+656,2021,2023-05-28,Kolkata Knight Riders,Rajasthan Royals,Venkatesh Iyer,40,24,5,1,166.67,0,1.7,8.56
+657,2021,2021-10-02,Sunrisers Hyderabad,Delhi Capitals,Heinrich Klaasen,96,64,3,4,150.0,0,3.7,12.16
+658,2023,2021-09-12,Sunrisers Hyderabad,Mumbai Indians,Heinrich Klaasen,99,57,7,7,173.68,1,3.8,7.73
+659,2024,2022-09-17,Chennai Super Kings,Kolkata Knight Riders,Deepak Chahar,8,37,2,0,21.62,0,3.4,10.81
+660,2024,2024-11-04,Mumbai Indians,Chennai Super Kings,Jasprit Bumrah,28,16,7,0,175.0,0,1.6,7.52
+661,2025,2022-08-25,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,16,38,4,0,42.11,1,2.0,8.84
+662,2022,2024-07-28,Delhi Capitals,Royal Challengers Bangalore,Anrich Nortje,41,57,4,3,71.93,0,2.1,8.19
+663,2024,2021-05-18,Lucknow Super Giants,Kolkata Knight Riders,KL Rahul,71,64,10,3,110.94,2,3.9,6.71
+664,2022,2023-08-27,Mumbai Indians,Punjab Kings,Tilak Varma,33,43,2,1,76.74,2,1.5,9.51
+665,2021,2025-01-09,Gujarat Titans,Sunrisers Hyderabad,Rahul Tewatia,15,36,3,0,41.67,0,3.6,11.14
+666,2023,2023-09-01,Punjab Kings,Sunrisers Hyderabad,Liam Livingstone,26,59,6,0,44.07,4,1.8,10.35
+667,2024,2021-05-29,Royal Challengers Bangalore,Punjab Kings,Faf du Plessis,16,23,3,0,69.57,2,2.1,10.4
+668,2024,2021-12-29,Chennai Super Kings,Mumbai Indians,Shivam Dube,41,60,6,2,68.33,0,3.1,10.79
+669,2023,2021-07-30,Chennai Super Kings,Royal Challengers Bangalore,Devon Conway,10,8,2,0,125.0,2,4.0,12.34
+670,2025,2024-01-29,Mumbai Indians,Chennai Super Kings,Ishan Kishan,48,44,4,5,109.09,0,1.4,11.98
+671,2021,2022-03-14,Lucknow Super Giants,Royal Challengers Bangalore,Ayush Badoni,63,37,5,7,170.27,0,2.0,9.23
+672,2022,2021-06-30,Delhi Capitals,Chennai Super Kings,Axar Patel,15,13,3,0,115.38,2,1.8,11.86
+673,2025,2023-09-10,Delhi Capitals,Lucknow Super Giants,Axar Patel,21,62,5,0,33.87,1,1.5,11.68
+674,2024,2021-07-21,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,11,19,0,1,57.89,0,3.1,8.52
+675,2024,2025-03-23,Mumbai Indians,Gujarat Titans,Ishan Kishan,62,40,7,5,155.0,0,3.2,6.33
+676,2023,2022-04-05,Chennai Super Kings,Delhi Capitals,Ravindra Jadeja,21,58,5,0,36.21,0,3.0,6.81
+677,2021,2021-09-05,Gujarat Titans,Royal Challengers Bangalore,Rahul Tewatia,31,20,7,0,155.0,1,1.1,10.38
+678,2021,2021-11-04,Sunrisers Hyderabad,Rajasthan Royals,Bhuvneshwar Kumar,41,58,2,0,70.69,0,3.5,10.21
+679,2024,2021-06-29,Delhi Capitals,Mumbai Indians,Axar Patel,79,46,7,5,171.74,2,4.0,12.09
+680,2025,2024-11-09,Royal Challengers Bangalore,Delhi Capitals,Virat Kohli,20,23,0,1,86.96,0,2.8,5.9
+681,2023,2021-09-30,Royal Challengers Bangalore,Delhi Capitals,Rajat Patidar,3,6,0,0,50.0,1,1.9,10.92
+682,2022,2023-09-03,Chennai Super Kings,Rajasthan Royals,Shivam Dube,39,52,9,0,75.0,0,1.3,7.99
+683,2022,2023-12-02,Punjab Kings,Gujarat Titans,Sam Curran,36,22,9,0,163.64,0,2.3,8.0
+684,2022,2021-06-22,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,43,37,7,2,116.22,0,3.1,12.27
+685,2025,2023-11-15,Gujarat Titans,Chennai Super Kings,David Miller,10,32,2,0,31.25,0,1.4,12.06
+686,2022,2024-06-08,Gujarat Titans,Sunrisers Hyderabad,David Miller,2,8,0,0,25.0,0,2.2,8.73
+687,2025,2024-07-13,Delhi Capitals,Sunrisers Hyderabad,Axar Patel,16,10,0,1,160.0,1,2.4,11.17
+688,2024,2025-03-13,Mumbai Indians,Royal Challengers Bangalore,Hardik Pandya,20,24,5,0,83.33,1,2.3,11.34
+689,2023,2021-09-08,Royal Challengers Bangalore,Delhi Capitals,Faf du Plessis,77,52,4,1,148.08,0,1.1,8.2
+690,2021,2025-02-15,Royal Challengers Bangalore,Gujarat Titans,Rajat Patidar,55,30,10,2,183.33,0,3.4,9.89
+691,2024,2022-01-02,Delhi Capitals,Chennai Super Kings,David Warner,3,5,0,0,60.0,0,1.6,5.4
+692,2024,2024-10-04,Royal Challengers Bangalore,Delhi Capitals,Rajat Patidar,68,59,3,1,115.25,0,2.4,8.8
+693,2021,2025-03-09,Chennai Super Kings,Kolkata Knight Riders,MS Dhoni,62,33,7,0,187.88,1,2.8,6.73
+694,2025,2021-04-17,Sunrisers Hyderabad,Mumbai Indians,Heinrich Klaasen,20,11,5,0,181.82,1,3.2,9.73
+695,2025,2023-06-28,Delhi Capitals,Mumbai Indians,Prithvi Shaw,65,36,9,4,180.56,0,1.2,5.34
+696,2025,2022-10-01,Rajasthan Royals,Lucknow Super Giants,Sanju Samson,82,62,6,7,132.26,0,2.9,10.11
+697,2024,2022-11-11,Sunrisers Hyderabad,Mumbai Indians,Travis Head,24,51,6,0,47.06,0,2.5,9.67
+698,2023,2022-11-22,Lucknow Super Giants,Punjab Kings,Nicholas Pooran,91,51,6,6,178.43,1,3.0,10.78
+699,2024,2025-02-13,Royal Challengers Bangalore,Delhi Capitals,Glenn Maxwell,11,52,2,0,21.15,0,1.6,9.8
+700,2021,2022-07-25,Sunrisers Hyderabad,Gujarat Titans,Heinrich Klaasen,35,18,0,0,194.44,0,1.8,10.34
+701,2022,2023-02-21,Gujarat Titans,Mumbai Indians,Shubman Gill,14,32,3,0,43.75,0,1.7,7.16
+702,2023,2022-09-30,Rajasthan Royals,Mumbai Indians,Ravichandran Ashwin,19,62,4,0,30.65,0,3.8,8.53
+703,2024,2024-08-31,Chennai Super Kings,Royal Challengers Bangalore,Devon Conway,13,55,3,0,23.64,0,1.5,6.1
+704,2022,2022-11-20,Rajasthan Royals,Royal Challengers Bangalore,Trent Boult,56,50,8,4,112.0,1,1.3,10.12
+705,2023,2023-09-17,Royal Challengers Bangalore,Chennai Super Kings,Faf du Plessis,49,31,0,3,158.06,1,2.4,7.38
+706,2022,2025-04-04,Chennai Super Kings,Rajasthan Royals,Ravindra Jadeja,53,53,5,3,100.0,0,3.3,8.41
+707,2022,2023-07-18,Royal Challengers Bangalore,Punjab Kings,Rajat Patidar,58,62,8,4,93.55,2,2.3,11.05
+708,2025,2023-01-05,Chennai Super Kings,Royal Challengers Bangalore,Ravindra Jadeja,49,30,2,6,163.33,0,3.3,10.22
+709,2022,2025-03-31,Lucknow Super Giants,Mumbai Indians,Ravi Bishnoi,84,56,8,4,150.0,0,3.7,10.53
+710,2023,2022-10-25,Rajasthan Royals,Sunrisers Hyderabad,Sanju Samson,67,62,9,2,108.06,0,2.3,6.76
+711,2025,2023-03-09,Lucknow Super Giants,Punjab Kings,Ravi Bishnoi,100,61,10,6,163.93,1,3.6,5.84
+712,2025,2025-04-12,Rajasthan Royals,Punjab Kings,Trent Boult,16,52,4,0,30.77,0,2.5,7.57
+713,2023,2024-04-10,Royal Challengers Bangalore,Mumbai Indians,Virat Kohli,33,42,3,3,78.57,1,4.0,6.04
+714,2021,2024-02-04,Rajasthan Royals,Delhi Capitals,Trent Boult,7,27,0,1,25.93,0,2.7,5.24
+715,2023,2022-07-23,Kolkata Knight Riders,Lucknow Super Giants,Venkatesh Iyer,19,27,4,0,70.37,0,2.6,7.08
+716,2023,2023-10-18,Gujarat Titans,Kolkata Knight Riders,David Miller,4,11,1,0,36.36,0,1.2,11.95
+717,2024,2023-04-27,Kolkata Knight Riders,Gujarat Titans,Shreyas Iyer,67,48,6,6,139.58,1,2.8,10.04
+718,2024,2022-01-21,Punjab Kings,Sunrisers Hyderabad,Liam Livingstone,16,37,4,0,43.24,0,3.1,11.76
+719,2021,2021-06-06,Kolkata Knight Riders,Gujarat Titans,Sunil Narine,20,52,5,0,38.46,2,1.4,11.68
+720,2021,2022-11-15,Chennai Super Kings,Sunrisers Hyderabad,Devon Conway,8,7,2,0,114.29,0,4.0,7.5
+721,2024,2024-07-21,Mumbai Indians,Kolkata Knight Riders,Suryakumar Yadav,3,31,0,0,9.68,0,3.5,8.91
+722,2021,2021-07-01,Gujarat Titans,Rajasthan Royals,Shubman Gill,30,31,7,0,96.77,0,3.7,11.14
+723,2024,2024-01-29,Lucknow Super Giants,Royal Challengers Bangalore,Nicholas Pooran,58,45,7,5,128.89,0,3.2,5.88
+724,2025,2022-07-21,Lucknow Super Giants,Sunrisers Hyderabad,Marcus Stoinis,50,62,5,0,80.65,2,3.7,10.79
+725,2021,2024-10-12,Royal Challengers Bangalore,Mumbai Indians,Dinesh Karthik,98,55,4,1,178.18,0,1.3,12.46
+726,2025,2024-03-04,Lucknow Super Giants,Mumbai Indians,Krunal Pandya,30,17,7,0,176.47,0,3.8,6.57
+727,2021,2025-03-16,Delhi Capitals,Kolkata Knight Riders,David Warner,74,58,7,1,127.59,1,2.8,8.25
+728,2021,2023-09-13,Punjab Kings,Mumbai Indians,Jitesh Sharma,26,16,0,4,162.5,0,1.3,12.65
+729,2025,2022-04-10,Royal Challengers Bangalore,Rajasthan Royals,Faf du Plessis,5,21,1,0,23.81,2,3.0,5.65
+730,2023,2021-07-29,Royal Challengers Bangalore,Mumbai Indians,Mohammed Siraj,24,24,1,3,100.0,0,3.7,7.16
+731,2021,2024-08-05,Mumbai Indians,Delhi Capitals,Suryakumar Yadav,30,42,7,0,71.43,2,1.8,7.62
+732,2025,2021-05-30,Sunrisers Hyderabad,Chennai Super Kings,Aiden Markram,40,31,3,0,129.03,0,3.9,10.33
+733,2022,2024-06-07,Gujarat Titans,Royal Challengers Bangalore,David Miller,28,31,1,3,90.32,1,1.4,9.31
+734,2022,2024-05-11,Kolkata Knight Riders,Lucknow Super Giants,Sunil Narine,5,33,0,0,15.15,2,2.9,10.16
+735,2022,2022-10-12,Mumbai Indians,Chennai Super Kings,Hardik Pandya,32,43,8,0,74.42,4,3.5,6.82
+736,2025,2024-03-29,Delhi Capitals,Mumbai Indians,David Warner,8,41,2,0,19.51,0,1.4,6.26
+737,2025,2024-09-02,Delhi Capitals,Punjab Kings,David Warner,40,37,10,0,108.11,0,3.9,10.58
+738,2023,2022-06-06,Kolkata Knight Riders,Sunrisers Hyderabad,Andre Russell,42,34,0,2,123.53,0,1.0,8.82
+739,2021,2025-02-25,Royal Challengers Bangalore,Punjab Kings,Dinesh Karthik,62,50,6,1,124.0,1,2.9,5.79
+740,2021,2023-05-11,Punjab Kings,Chennai Super Kings,Jitesh Sharma,76,57,5,6,133.33,0,3.3,10.5
+741,2021,2022-05-01,Chennai Super Kings,Gujarat Titans,Ravindra Jadeja,1,33,0,0,3.03,1,3.0,10.59
+742,2022,2022-06-27,Chennai Super Kings,Rajasthan Royals,Deepak Chahar,31,19,5,0,163.16,0,3.7,10.57
+743,2022,2023-06-21,Mumbai Indians,Delhi Capitals,Jasprit Bumrah,8,12,2,0,66.67,0,1.6,10.81
+744,2025,2024-07-18,Lucknow Super Giants,Royal Challengers Bangalore,KL Rahul,23,13,1,2,176.92,0,2.7,6.93
+745,2025,2021-05-18,Delhi Capitals,Kolkata Knight Riders,Anrich Nortje,86,49,8,4,175.51,0,3.6,5.21
+746,2024,2023-07-13,Mumbai Indians,Sunrisers Hyderabad,Hardik Pandya,7,22,1,0,31.82,0,2.6,5.53
+747,2022,2024-03-26,Mumbai Indians,Rajasthan Royals,Hardik Pandya,40,33,0,6,121.21,0,1.2,9.55
+748,2021,2022-08-25,Kolkata Knight Riders,Punjab Kings,Shreyas Iyer,10,17,2,0,58.82,0,2.9,5.41
+749,2024,2022-08-20,Mumbai Indians,Sunrisers Hyderabad,Ishan Kishan,15,11,3,0,136.36,1,3.5,9.15
+750,2022,2024-10-02,Chennai Super Kings,Gujarat Titans,Ruturaj Gaikwad,15,33,1,0,45.45,2,2.1,11.96
+751,2021,2021-07-22,Royal Challengers Bangalore,Mumbai Indians,Rajat Patidar,39,24,9,0,162.5,0,3.0,9.45
+752,2023,2024-09-16,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,52,53,3,0,98.11,0,2.4,8.45
+753,2025,2024-11-24,Lucknow Super Giants,Chennai Super Kings,Ayush Badoni,86,65,0,7,132.31,0,2.8,6.02
+754,2021,2022-05-02,Lucknow Super Giants,Chennai Super Kings,Krunal Pandya,73,62,2,4,117.74,0,2.4,9.92
+755,2022,2021-08-02,Kolkata Knight Riders,Royal Challengers Bangalore,Shreyas Iyer,9,13,2,0,69.23,0,3.0,7.92
+756,2025,2023-11-18,Gujarat Titans,Royal Challengers Bangalore,Sai Sudharsan,38,24,5,3,158.33,0,1.0,9.66
+757,2022,2024-05-20,Mumbai Indians,Delhi Capitals,Tilak Varma,6,59,1,0,10.17,0,1.6,12.1
+758,2021,2023-12-01,Rajasthan Royals,Kolkata Knight Riders,Trent Boult,88,49,7,5,179.59,1,2.7,7.75
+759,2023,2021-11-01,Sunrisers Hyderabad,Rajasthan Royals,Travis Head,5,34,1,0,14.71,2,2.9,10.47
+760,2024,2023-12-11,Lucknow Super Giants,Kolkata Knight Riders,Nicholas Pooran,98,52,5,6,188.46,0,1.6,12.72
+761,2023,2021-06-01,Mumbai Indians,Royal Challengers Bangalore,Ishan Kishan,14,40,2,1,35.0,0,2.9,12.14
+762,2023,2022-05-11,Mumbai Indians,Chennai Super Kings,Suryakumar Yadav,11,23,2,0,47.83,0,2.0,9.41
+763,2022,2022-09-19,Kolkata Knight Riders,Mumbai Indians,Rinku Singh,12,63,0,2,19.05,0,3.4,6.04
+764,2022,2023-04-28,Delhi Capitals,Gujarat Titans,David Warner,47,56,10,1,83.93,2,3.9,12.78
+765,2024,2021-12-24,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni,24,55,3,2,43.64,0,2.0,8.46
+766,2022,2022-11-24,Mumbai Indians,Delhi Capitals,Tilak Varma,19,55,4,0,34.55,0,3.4,11.83
+767,2025,2025-04-29,Lucknow Super Giants,Punjab Kings,Nicholas Pooran,15,10,3,0,150.0,0,2.2,11.91
+768,2025,2023-11-07,Rajasthan Royals,Gujarat Titans,Ravichandran Ashwin,20,16,5,0,125.0,0,2.5,7.24
+769,2024,2022-06-24,Lucknow Super Giants,Mumbai Indians,Nicholas Pooran,25,62,6,0,40.32,0,1.9,11.95
+770,2025,2024-05-02,Royal Challengers Bangalore,Sunrisers Hyderabad,Glenn Maxwell,4,10,1,0,40.0,0,2.1,9.64
+771,2024,2023-10-11,Gujarat Titans,Rajasthan Royals,Rahul Tewatia,55,34,6,5,161.76,1,2.0,8.11
+772,2022,2024-11-12,Punjab Kings,Kolkata Knight Riders,Jitesh Sharma,11,9,1,1,122.22,1,2.5,10.09
+773,2023,2021-08-25,Kolkata Knight Riders,Chennai Super Kings,Shreyas Iyer,2,28,0,0,7.14,0,3.0,7.1
+774,2023,2024-04-17,Kolkata Knight Riders,Royal Challengers Bangalore,Varun Chakravarthy,33,63,0,4,52.38,0,2.0,12.78
+775,2024,2024-11-30,Lucknow Super Giants,Mumbai Indians,Marcus Stoinis,19,37,4,0,51.35,0,3.2,8.81
+776,2025,2025-04-19,Lucknow Super Giants,Gujarat Titans,Marcus Stoinis,59,57,5,1,103.51,0,1.6,11.05
+777,2024,2024-05-18,Kolkata Knight Riders,Gujarat Titans,Sunil Narine,5,6,1,0,83.33,0,3.2,9.0
+778,2023,2023-08-20,Rajasthan Royals,Kolkata Knight Riders,Shimron Hetmyer,96,48,6,4,200.0,0,1.1,11.17
+779,2022,2024-10-11,Royal Challengers Bangalore,Sunrisers Hyderabad,Dinesh Karthik,77,56,9,6,137.5,3,1.6,8.17
+780,2025,2021-11-09,Sunrisers Hyderabad,Kolkata Knight Riders,Aiden Markram,36,26,7,1,138.46,0,1.3,9.4
+781,2021,2022-04-18,Lucknow Super Giants,Punjab Kings,KL Rahul,4,17,1,0,23.53,0,1.9,9.19
+782,2024,2021-04-23,Mumbai Indians,Sunrisers Hyderabad,Tilak Varma,10,15,2,0,66.67,0,1.3,9.28
+783,2024,2021-12-23,Chennai Super Kings,Punjab Kings,MS Dhoni,26,60,4,1,43.33,1,3.0,6.41
+784,2025,2025-04-07,Delhi Capitals,Kolkata Knight Riders,Kuldeep Yadav,58,48,4,3,120.83,0,1.4,5.69
+785,2024,2023-02-03,Lucknow Super Giants,Kolkata Knight Riders,Krunal Pandya,72,63,7,7,114.29,0,1.1,5.89
+786,2024,2024-09-07,Rajasthan Royals,Delhi Capitals,Shimron Hetmyer,22,57,5,0,38.6,0,2.9,8.48
+787,2024,2025-03-01,Royal Challengers Bangalore,Chennai Super Kings,Rajat Patidar,5,65,1,0,7.69,0,2.9,7.42
+788,2021,2024-05-07,Kolkata Knight Riders,Gujarat Titans,Sunil Narine,11,12,1,1,91.67,0,3.3,8.32
+789,2022,2021-07-01,Delhi Capitals,Kolkata Knight Riders,Kuldeep Yadav,3,34,0,0,8.82,0,3.2,11.7
+790,2024,2021-11-21,Mumbai Indians,Chennai Super Kings,Ishan Kishan,17,50,4,0,34.0,0,1.2,9.37
+791,2022,2022-10-24,Punjab Kings,Royal Challengers Bangalore,Sam Curran,20,58,2,0,34.48,0,1.5,6.14
+792,2024,2021-04-23,Royal Challengers Bangalore,Chennai Super Kings,Mohammed Siraj,34,48,2,4,70.83,0,1.7,5.46
+793,2025,2021-07-07,Kolkata Knight Riders,Gujarat Titans,Varun Chakravarthy,81,58,8,1,139.66,0,1.9,5.6
+794,2021,2022-08-25,Mumbai Indians,Punjab Kings,Suryakumar Yadav,15,28,3,0,53.57,0,1.1,5.31
+795,2022,2024-12-21,Chennai Super Kings,Delhi Capitals,Ruturaj Gaikwad,23,15,2,0,153.33,0,1.3,7.69
+796,2025,2023-06-19,Kolkata Knight Riders,Delhi Capitals,Venkatesh Iyer,54,65,1,3,83.08,0,2.1,6.52
+797,2024,2022-06-10,Rajasthan Royals,Mumbai Indians,Shimron Hetmyer,28,34,1,4,82.35,0,2.1,5.71
+798,2022,2024-01-19,Sunrisers Hyderabad,Delhi Capitals,Bhuvneshwar Kumar,22,11,5,0,200.0,0,1.3,7.67
+799,2024,2024-10-23,Royal Challengers Bangalore,Sunrisers Hyderabad,Faf du Plessis,88,53,5,7,166.04,0,1.1,12.13
+800,2024,2022-07-21,Sunrisers Hyderabad,Lucknow Super Giants,Pat Cummins,1,37,0,0,2.7,0,3.7,7.55
+801,2024,2022-01-07,Kolkata Knight Riders,Chennai Super Kings,Shreyas Iyer,31,28,4,2,110.71,0,1.6,5.49
+802,2025,2022-10-22,Punjab Kings,Rajasthan Royals,Liam Livingstone,41,25,0,6,164.0,0,1.9,5.38
+803,2023,2024-04-09,Rajasthan Royals,Kolkata Knight Riders,Jos Buttler,7,8,1,0,87.5,0,2.1,7.64
+804,2024,2021-08-22,Mumbai Indians,Royal Challengers Bangalore,Hardik Pandya,3,17,0,0,17.65,2,1.4,6.52
+805,2025,2021-09-08,Kolkata Knight Riders,Delhi Capitals,Venkatesh Iyer,59,32,4,2,184.38,1,1.7,6.54
+806,2022,2023-10-06,Delhi Capitals,Rajasthan Royals,Kuldeep Yadav,25,45,4,1,55.56,0,3.9,8.23
+807,2022,2024-01-30,Punjab Kings,Gujarat Titans,Sam Curran,55,44,2,7,125.0,0,2.1,11.69
+808,2023,2024-05-07,Lucknow Super Giants,Gujarat Titans,Nicholas Pooran,22,51,4,1,43.14,0,2.4,8.05
+809,2025,2022-01-05,Punjab Kings,Chennai Super Kings,Jitesh Sharma,60,50,3,2,120.0,2,1.0,11.75
+810,2023,2023-06-18,Punjab Kings,Sunrisers Hyderabad,Sam Curran,47,52,6,3,90.38,0,4.0,5.74
+811,2021,2022-02-27,Chennai Super Kings,Punjab Kings,Devon Conway,27,17,4,1,158.82,0,2.5,10.43
+812,2021,2022-08-19,Sunrisers Hyderabad,Punjab Kings,Pat Cummins,30,20,0,5,150.0,0,3.0,10.5
+813,2022,2022-01-27,Delhi Capitals,Gujarat Titans,Anrich Nortje,15,21,3,0,71.43,0,3.3,10.1
+814,2024,2022-04-22,Sunrisers Hyderabad,Chennai Super Kings,Bhuvneshwar Kumar,54,61,2,6,88.52,0,1.9,12.55
+815,2024,2023-07-22,Lucknow Super Giants,Delhi Capitals,Ravi Bishnoi,93,53,1,1,175.47,0,3.3,7.82
+816,2022,2023-06-25,Delhi Capitals,Kolkata Knight Riders,Anrich Nortje,39,49,0,2,79.59,1,1.0,5.73
+817,2024,2022-11-12,Gujarat Titans,Sunrisers Hyderabad,Mohammed Shami,55,51,2,2,107.84,0,3.1,6.7
+818,2022,2024-06-05,Gujarat Titans,Chennai Super Kings,Rahul Tewatia,27,57,2,3,47.37,0,1.5,10.97
+819,2023,2024-09-30,Sunrisers Hyderabad,Gujarat Titans,Pat Cummins,20,11,2,1,181.82,0,2.1,7.3
+820,2023,2023-12-20,Mumbai Indians,Delhi Capitals,Hardik Pandya,12,48,0,0,25.0,0,3.9,10.26
+821,2021,2021-04-15,Chennai Super Kings,Delhi Capitals,Devon Conway,38,29,8,1,131.03,2,2.4,7.76
+822,2024,2023-03-04,Rajasthan Royals,Sunrisers Hyderabad,Trent Boult,15,25,3,0,60.0,0,1.2,7.91
+823,2023,2025-03-01,Chennai Super Kings,Mumbai Indians,Shivam Dube,46,30,2,0,153.33,0,3.6,7.32
+824,2022,2025-02-04,Rajasthan Royals,Gujarat Titans,Ravichandran Ashwin,60,47,8,4,127.66,0,1.0,10.05
+825,2023,2023-01-27,Mumbai Indians,Sunrisers Hyderabad,Rohit Sharma,56,48,3,7,116.67,0,2.8,5.82
+826,2024,2023-05-29,Punjab Kings,Chennai Super Kings,Kagiso Rabada,38,23,3,2,165.22,1,3.6,11.16
+827,2025,2021-09-26,Mumbai Indians,Kolkata Knight Riders,Hardik Pandya,43,24,8,1,179.17,0,2.3,6.08
+828,2025,2022-03-16,Kolkata Knight Riders,Delhi Capitals,Rinku Singh,84,53,1,1,158.49,0,3.1,6.42
+829,2023,2025-04-12,Sunrisers Hyderabad,Delhi Capitals,Travis Head,42,21,7,1,200.0,0,3.8,10.01
+830,2024,2024-06-23,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni,76,54,1,5,140.74,0,3.2,10.79
+831,2024,2022-07-02,Gujarat Titans,Sunrisers Hyderabad,Sai Sudharsan,7,21,1,0,33.33,0,2.0,9.7
+832,2022,2023-01-02,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni,36,29,0,4,124.14,0,2.6,11.64
+833,2024,2021-12-15,Rajasthan Royals,Sunrisers Hyderabad,Trent Boult,75,38,3,1,197.37,0,2.6,8.7
+834,2022,2025-01-22,Delhi Capitals,Kolkata Knight Riders,Prithvi Shaw,18,34,4,0,52.94,0,3.0,11.29
+835,2021,2024-01-24,Lucknow Super Giants,Rajasthan Royals,Ayush Badoni,15,49,3,0,30.61,0,1.6,7.42
+836,2024,2025-04-07,Mumbai Indians,Sunrisers Hyderabad,Suryakumar Yadav,14,18,0,2,77.78,1,3.2,7.47
+837,2022,2023-02-21,Mumbai Indians,Lucknow Super Giants,Hardik Pandya,60,32,5,6,187.5,0,2.6,7.35
+838,2022,2021-12-25,Gujarat Titans,Sunrisers Hyderabad,Shubman Gill,48,25,9,0,192.0,1,3.1,8.68
+839,2022,2025-02-24,Lucknow Super Giants,Royal Challengers Bangalore,Marcus Stoinis,37,35,2,3,105.71,0,3.2,10.79
+840,2021,2022-01-28,Rajasthan Royals,Chennai Super Kings,Trent Boult,27,29,6,0,93.1,2,1.3,12.6
+841,2022,2024-11-22,Mumbai Indians,Royal Challengers Bangalore,Tilak Varma,37,26,6,2,142.31,0,2.2,5.46
+842,2022,2025-02-07,Sunrisers Hyderabad,Gujarat Titans,Heinrich Klaasen,22,43,5,0,51.16,1,4.0,10.3
+843,2021,2024-10-17,Punjab Kings,Sunrisers Hyderabad,Jitesh Sharma,56,46,5,0,121.74,0,1.2,8.92
+844,2025,2024-06-17,Kolkata Knight Riders,Mumbai Indians,Venkatesh Iyer,61,41,4,1,148.78,1,1.5,8.88
+845,2024,2023-01-27,Delhi Capitals,Royal Challengers Bangalore,Rishabh Pant,17,9,2,1,188.89,1,1.1,9.43
+846,2025,2024-02-27,Gujarat Titans,Punjab Kings,Shubman Gill,74,58,8,1,127.59,1,1.6,10.21
+847,2021,2024-05-11,Royal Challengers Bangalore,Kolkata Knight Riders,Virat Kohli,40,33,1,0,121.21,0,1.6,6.43
+848,2025,2021-12-12,Delhi Capitals,Mumbai Indians,Rishabh Pant,38,37,5,2,102.7,0,3.8,5.2
+849,2023,2024-12-10,Mumbai Indians,Lucknow Super Giants,Ishan Kishan,56,39,2,7,143.59,0,2.6,12.69
+850,2023,2022-06-04,Lucknow Super Giants,Gujarat Titans,Krunal Pandya,12,49,3,0,24.49,0,1.6,7.48
+851,2022,2024-07-25,Royal Challengers Bangalore,Lucknow Super Giants,Faf du Plessis,17,27,2,1,62.96,0,1.8,8.1
+852,2022,2022-09-03,Sunrisers Hyderabad,Gujarat Titans,Abhishek Sharma,54,48,2,3,112.5,0,3.2,12.76
+853,2022,2022-03-02,Rajasthan Royals,Lucknow Super Giants,Ravichandran Ashwin,52,31,2,5,167.74,3,2.3,5.4
+854,2025,2021-12-12,Kolkata Knight Riders,Chennai Super Kings,Andre Russell,14,39,3,0,35.9,0,2.9,7.96
+855,2023,2022-10-13,Delhi Capitals,Royal Challengers Bangalore,David Warner,1,5,0,0,20.0,0,1.3,12.23
+856,2022,2023-12-29,Gujarat Titans,Delhi Capitals,Rashid Khan,16,11,4,0,145.45,0,2.8,12.01
+857,2022,2023-03-08,Rajasthan Royals,Punjab Kings,Jos Buttler,94,56,10,6,167.86,0,1.4,5.27
+858,2025,2023-05-16,Royal Challengers Bangalore,Kolkata Knight Riders,Faf du Plessis,34,41,0,5,82.93,0,1.7,9.83
+859,2024,2023-11-16,Royal Challengers Bangalore,Gujarat Titans,Glenn Maxwell,36,37,4,3,97.3,0,3.2,12.22
+860,2022,2023-07-12,Delhi Capitals,Chennai Super Kings,Axar Patel,40,54,1,1,74.07,0,1.7,5.91
+861,2025,2022-11-07,Mumbai Indians,Royal Challengers Bangalore,Jasprit Bumrah,63,40,0,6,157.5,0,3.8,6.24
+862,2024,2021-12-12,Gujarat Titans,Lucknow Super Giants,Mohammed Shami,0,30,0,0,0.0,2,3.2,10.63
+863,2025,2024-12-15,Rajasthan Royals,Kolkata Knight Riders,Trent Boult,67,65,10,0,103.08,0,3.9,10.33
+864,2025,2023-04-22,Kolkata Knight Riders,Royal Challengers Bangalore,Shreyas Iyer,17,58,4,0,29.31,2,2.3,8.08
+865,2023,2022-08-25,Chennai Super Kings,Sunrisers Hyderabad,Deepak Chahar,69,58,1,4,118.97,0,1.9,6.82
+866,2025,2024-11-07,Sunrisers Hyderabad,Kolkata Knight Riders,Heinrich Klaasen,4,37,1,0,10.81,0,1.0,8.7
+867,2023,2023-03-18,Rajasthan Royals,Chennai Super Kings,Sanju Samson,92,61,2,6,150.82,0,1.3,8.94
+868,2021,2023-07-21,Gujarat Titans,Lucknow Super Giants,Sai Sudharsan,15,12,0,2,125.0,1,1.8,8.78
+869,2023,2022-04-09,Delhi Capitals,Sunrisers Hyderabad,Prithvi Shaw,34,39,1,5,87.18,0,2.3,6.26
+870,2024,2022-05-12,Mumbai Indians,Sunrisers Hyderabad,Jasprit Bumrah,6,12,1,0,50.0,0,2.3,7.72
+871,2021,2024-12-23,Royal Challengers Bangalore,Delhi Capitals,Rajat Patidar,7,22,1,0,31.82,0,3.4,10.63
+872,2023,2023-06-06,Sunrisers Hyderabad,Lucknow Super Giants,Pat Cummins,3,13,0,0,23.08,0,2.0,5.3
+873,2022,2024-08-05,Mumbai Indians,Sunrisers Hyderabad,Hardik Pandya,1,52,0,0,1.92,0,2.5,10.98
+874,2022,2024-02-12,Lucknow Super Giants,Royal Challengers Bangalore,Ravi Bishnoi,15,16,3,0,93.75,1,4.0,7.08
+875,2024,2021-10-29,Kolkata Knight Riders,Gujarat Titans,Varun Chakravarthy,93,49,8,2,189.8,0,3.6,9.98
+876,2022,2023-07-01,Kolkata Knight Riders,Chennai Super Kings,Rinku Singh,4,7,1,0,57.14,0,2.8,5.89
+877,2021,2022-12-19,Sunrisers Hyderabad,Punjab Kings,Bhuvneshwar Kumar,81,49,3,3,165.31,0,2.4,9.07
+878,2021,2023-04-15,Delhi Capitals,Chennai Super Kings,Axar Patel,22,22,5,0,100.0,0,1.1,5.51
+879,2021,2023-11-23,Rajasthan Royals,Kolkata Knight Riders,Yashasvi Jaiswal,38,22,1,5,172.73,0,3.8,7.96
+880,2023,2021-04-28,Chennai Super Kings,Royal Challengers Bangalore,Deepak Chahar,70,48,2,5,145.83,0,3.4,10.85
+881,2025,2024-11-22,Gujarat Titans,Rajasthan Royals,Sai Sudharsan,13,22,3,0,59.09,0,1.3,9.98
+882,2025,2024-12-01,Chennai Super Kings,Mumbai Indians,Devon Conway,24,57,3,2,42.11,2,1.2,9.35
+883,2023,2024-03-28,Delhi Capitals,Gujarat Titans,David Warner,19,51,0,2,37.25,0,2.7,7.12
+884,2025,2024-10-11,Rajasthan Royals,Sunrisers Hyderabad,Shimron Hetmyer,15,50,3,0,30.0,0,2.6,12.44
+885,2021,2021-12-21,Royal Challengers Bangalore,Rajasthan Royals,Mohammed Siraj,2,23,0,0,8.7,1,3.1,10.83
+886,2024,2021-09-01,Punjab Kings,Lucknow Super Giants,Arshdeep Singh,14,15,3,0,93.33,0,2.2,9.81
+887,2022,2024-06-15,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,0,18,0,0,0.0,0,3.2,7.17
+888,2022,2021-11-30,Delhi Capitals,Rajasthan Royals,Kuldeep Yadav,7,15,0,1,46.67,0,2.9,12.36
+889,2023,2024-11-06,Royal Challengers Bangalore,Rajasthan Royals,Virat Kohli,13,20,3,0,65.0,0,2.0,9.8
+890,2023,2024-04-29,Rajasthan Royals,Chennai Super Kings,Trent Boult,8,21,2,0,38.1,0,1.2,11.4
+891,2023,2022-09-07,Kolkata Knight Riders,Rajasthan Royals,Rinku Singh,8,6,2,0,133.33,1,3.1,12.39
+892,2023,2023-09-23,Lucknow Super Giants,Gujarat Titans,Nicholas Pooran,20,19,4,0,105.26,0,3.4,10.92
+893,2022,2025-04-27,Punjab Kings,Kolkata Knight Riders,Kagiso Rabada,47,32,2,6,146.88,0,1.5,6.61
+894,2022,2022-04-05,Kolkata Knight Riders,Gujarat Titans,Varun Chakravarthy,36,46,0,4,78.26,0,1.5,8.2
+895,2025,2021-08-26,Kolkata Knight Riders,Chennai Super Kings,Rinku Singh,31,32,7,0,96.88,0,2.6,10.72
+896,2021,2023-05-27,Lucknow Super Giants,Chennai Super Kings,Marcus Stoinis,1,6,0,0,16.67,0,3.3,7.23
+897,2025,2024-04-15,Mumbai Indians,Chennai Super Kings,Rohit Sharma,43,52,1,3,82.69,0,3.3,11.98
+898,2022,2022-02-11,Delhi Capitals,Sunrisers Hyderabad,Prithvi Shaw,3,20,0,0,15.0,0,1.4,11.47
+899,2021,2024-02-12,Gujarat Titans,Delhi Capitals,Shubman Gill,53,61,2,0,86.89,2,1.1,8.45
+900,2022,2025-01-31,Rajasthan Royals,Delhi Capitals,Jos Buttler,43,29,1,6,148.28,0,1.3,5.97
+901,2023,2023-02-13,Rajasthan Royals,Chennai Super Kings,Ravichandran Ashwin,11,12,1,0,91.67,0,1.5,9.23
+902,2025,2024-12-27,Royal Challengers Bangalore,Punjab Kings,Faf du Plessis,38,48,9,0,79.17,0,1.3,12.16
+903,2023,2022-01-30,Delhi Capitals,Chennai Super Kings,Rishabh Pant,83,54,2,5,153.7,0,2.3,11.26
+904,2024,2023-08-24,Chennai Super Kings,Royal Challengers Bangalore,Devon Conway,35,51,2,1,68.63,0,1.4,11.03
+905,2023,2023-12-12,Rajasthan Royals,Gujarat Titans,Shimron Hetmyer,52,49,9,2,106.12,0,3.8,12.2
+906,2024,2024-04-08,Sunrisers Hyderabad,Lucknow Super Giants,Aiden Markram,63,39,8,3,161.54,0,2.7,8.41
+907,2025,2023-04-11,Kolkata Knight Riders,Chennai Super Kings,Rinku Singh,3,5,0,0,60.0,0,3.9,12.2
+908,2021,2022-11-25,Rajasthan Royals,Sunrisers Hyderabad,Jos Buttler,18,34,4,0,52.94,0,3.5,5.62
+909,2022,2021-05-24,Chennai Super Kings,Kolkata Knight Riders,Shivam Dube,54,49,5,0,110.2,0,3.0,5.76
+910,2025,2023-04-19,Royal Challengers Bangalore,Mumbai Indians,Faf du Plessis,2,14,0,0,14.29,0,3.5,8.37
+911,2022,2024-03-16,Punjab Kings,Royal Challengers Bangalore,Kagiso Rabada,38,49,7,1,77.55,1,2.3,10.1
+912,2021,2021-08-01,Delhi Capitals,Chennai Super Kings,David Warner,82,61,0,2,134.43,0,1.0,11.53
+913,2024,2024-01-23,Gujarat Titans,Delhi Capitals,Rashid Khan,45,24,3,5,187.5,2,1.8,5.9
+914,2024,2024-09-19,Royal Challengers Bangalore,Delhi Capitals,Rajat Patidar,7,8,1,0,87.5,1,3.9,9.8
+915,2021,2024-11-27,Punjab Kings,Gujarat Titans,Jitesh Sharma,51,46,6,2,110.87,0,2.1,8.42
+916,2023,2023-04-13,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,42,43,0,3,97.67,0,2.6,5.7
+917,2025,2024-05-04,Mumbai Indians,Rajasthan Royals,Suryakumar Yadav,2,17,0,0,11.76,0,2.7,5.54
+918,2024,2021-10-08,Mumbai Indians,Chennai Super Kings,Ishan Kishan,39,65,0,5,60.0,1,3.9,9.0
+919,2023,2025-03-10,Sunrisers Hyderabad,Rajasthan Royals,Travis Head,12,48,3,0,25.0,1,2.5,9.02
+920,2022,2024-07-14,Mumbai Indians,Punjab Kings,Hardik Pandya,4,60,1,0,6.67,0,2.4,11.93
+921,2021,2024-11-30,Kolkata Knight Riders,Delhi Capitals,Varun Chakravarthy,24,14,2,2,171.43,0,1.4,7.41
+922,2025,2025-01-28,Sunrisers Hyderabad,Mumbai Indians,Pat Cummins,15,29,3,0,51.72,2,2.7,12.76
+923,2021,2024-04-25,Mumbai Indians,Kolkata Knight Riders,Ishan Kishan,100,60,1,7,166.67,0,1.9,12.3
+924,2022,2023-04-15,Chennai Super Kings,Rajasthan Royals,Devon Conway,5,27,1,0,18.52,0,2.4,12.69
+925,2023,2024-06-08,Punjab Kings,Royal Challengers Bangalore,Shikhar Dhawan,5,36,1,0,13.89,0,3.6,12.17
+926,2022,2024-10-01,Punjab Kings,Rajasthan Royals,Arshdeep Singh,40,65,5,1,61.54,0,2.5,7.2
+927,2021,2022-08-15,Lucknow Super Giants,Mumbai Indians,Ravi Bishnoi,71,49,0,2,144.9,1,1.9,6.4
+928,2024,2023-11-03,Chennai Super Kings,Delhi Capitals,Shivam Dube,11,47,2,0,23.4,0,2.6,11.42
+929,2021,2021-11-08,Chennai Super Kings,Kolkata Knight Riders,Deepak Chahar,50,63,6,3,79.37,0,1.2,7.8
+930,2025,2023-12-02,Punjab Kings,Kolkata Knight Riders,Kagiso Rabada,8,12,2,0,66.67,0,3.8,6.31
+931,2022,2023-05-19,Rajasthan Royals,Mumbai Indians,Ravichandran Ashwin,11,8,2,0,137.5,0,1.6,5.37
+932,2024,2022-03-27,Delhi Capitals,Rajasthan Royals,Anrich Nortje,4,10,1,0,40.0,0,1.9,10.61
+933,2024,2022-09-14,Gujarat Titans,Kolkata Knight Riders,Mohammed Shami,3,16,0,0,18.75,0,3.3,6.45
+934,2023,2024-04-01,Sunrisers Hyderabad,Gujarat Titans,Aiden Markram,20,49,5,0,40.82,2,2.7,11.45
+935,2025,2025-04-20,Lucknow Super Giants,Kolkata Knight Riders,KL Rahul,74,47,9,2,157.45,0,4.0,12.34
+936,2023,2022-01-28,Mumbai Indians,Kolkata Knight Riders,Hardik Pandya,40,36,1,6,111.11,0,3.2,12.71
+937,2022,2022-06-22,Punjab Kings,Chennai Super Kings,Shikhar Dhawan,24,52,6,0,46.15,0,1.6,6.79
+938,2022,2023-04-16,Lucknow Super Giants,Mumbai Indians,Ayush Badoni,4,6,1,0,66.67,0,2.9,8.67
+939,2024,2023-08-21,Rajasthan Royals,Sunrisers Hyderabad,Ravichandran Ashwin,42,38,1,2,110.53,0,2.1,9.4
+940,2022,2022-11-05,Gujarat Titans,Sunrisers Hyderabad,Rahul Tewatia,84,59,10,6,142.37,0,3.1,12.33
+941,2021,2024-11-21,Chennai Super Kings,Royal Challengers Bangalore,Ruturaj Gaikwad,9,6,2,0,150.0,0,3.3,12.25
+942,2021,2021-06-06,Punjab Kings,Lucknow Super Giants,Arshdeep Singh,37,47,6,2,78.72,0,2.4,8.1
+943,2022,2023-11-07,Punjab Kings,Chennai Super Kings,Jitesh Sharma,58,31,10,3,187.1,0,2.1,6.9
+944,2023,2023-07-29,Delhi Capitals,Rajasthan Royals,Axar Patel,30,48,0,5,62.5,0,1.1,11.21
+945,2025,2022-03-16,Lucknow Super Giants,Rajasthan Royals,Ayush Badoni,55,41,3,6,134.15,0,2.9,11.5
+946,2025,2023-06-09,Sunrisers Hyderabad,Royal Challengers Bangalore,Pat Cummins,22,51,5,0,43.14,0,2.3,5.96
+947,2022,2024-06-25,Gujarat Titans,Chennai Super Kings,Mohammed Shami,50,55,10,1,90.91,1,1.5,7.65
+948,2021,2021-04-24,Chennai Super Kings,Mumbai Indians,Shivam Dube,75,45,2,0,166.67,0,2.6,12.59
+949,2025,2021-12-24,Sunrisers Hyderabad,Mumbai Indians,Pat Cummins,45,34,2,3,132.35,0,1.7,6.67
+950,2022,2021-07-15,Sunrisers Hyderabad,Delhi Capitals,Pat Cummins,5,22,1,0,22.73,0,2.7,5.99
+951,2024,2022-01-16,Lucknow Super Giants,Chennai Super Kings,KL Rahul,16,23,2,1,69.57,0,3.5,12.14
+952,2022,2021-05-15,Sunrisers Hyderabad,Chennai Super Kings,Aiden Markram,4,31,1,0,12.9,0,2.3,11.96
+953,2024,2021-04-21,Royal Challengers Bangalore,Kolkata Knight Riders,Glenn Maxwell,22,62,5,0,35.48,0,2.0,7.84
+954,2025,2022-02-19,Lucknow Super Giants,Gujarat Titans,KL Rahul,32,38,1,3,84.21,0,2.6,9.14
+955,2022,2022-06-19,Kolkata Knight Riders,Sunrisers Hyderabad,Shreyas Iyer,5,6,1,0,83.33,0,3.1,6.16
+956,2023,2023-03-15,Punjab Kings,Kolkata Knight Riders,Shikhar Dhawan,70,50,10,4,140.0,0,3.4,8.51
+957,2024,2022-05-11,Kolkata Knight Riders,Rajasthan Royals,Rinku Singh,91,48,4,6,189.58,0,3.4,9.67
+958,2022,2023-10-01,Kolkata Knight Riders,Gujarat Titans,Sunil Narine,34,32,5,1,106.25,0,2.3,9.51
+959,2023,2021-06-09,Chennai Super Kings,Gujarat Titans,MS Dhoni,32,37,8,0,86.49,0,3.5,10.1
+960,2025,2021-11-21,Rajasthan Royals,Punjab Kings,Sanju Samson,20,16,5,0,125.0,0,1.2,10.19
+961,2023,2021-04-20,Royal Challengers Bangalore,Sunrisers Hyderabad,Virat Kohli,44,25,0,5,176.0,0,2.7,7.64
+962,2022,2022-11-02,Gujarat Titans,Chennai Super Kings,Rahul Tewatia,27,43,6,0,62.79,0,1.8,9.82
+963,2021,2023-09-09,Lucknow Super Giants,Sunrisers Hyderabad,Ravi Bishnoi,20,25,3,1,80.0,0,2.5,5.56
+964,2023,2023-10-15,Sunrisers Hyderabad,Chennai Super Kings,Abhishek Sharma,19,15,4,0,126.67,0,1.1,5.34
+965,2025,2021-12-25,Mumbai Indians,Gujarat Titans,Ishan Kishan,51,58,0,0,87.93,0,1.0,8.77
+966,2024,2023-03-10,Delhi Capitals,Rajasthan Royals,Axar Patel,5,30,1,0,16.67,0,1.1,7.47
+967,2024,2024-09-17,Punjab Kings,Chennai Super Kings,Jitesh Sharma,0,11,0,0,0.0,1,1.4,12.75
+968,2024,2022-04-27,Kolkata Knight Riders,Royal Challengers Bangalore,Shreyas Iyer,47,51,8,0,92.16,2,3.6,7.17
+969,2021,2021-09-01,Chennai Super Kings,Mumbai Indians,Ravindra Jadeja,21,21,5,0,100.0,0,1.5,6.25
+970,2024,2022-01-29,Chennai Super Kings,Kolkata Knight Riders,Ravindra Jadeja,74,53,6,7,139.62,0,2.6,7.03
+971,2024,2025-05-06,Punjab Kings,Delhi Capitals,Jitesh Sharma,28,35,1,4,80.0,1,3.1,7.88
+972,2022,2024-01-08,Kolkata Knight Riders,Chennai Super Kings,Shreyas Iyer,6,8,0,1,75.0,0,2.2,8.91
+973,2023,2023-01-02,Kolkata Knight Riders,Lucknow Super Giants,Venkatesh Iyer,39,53,7,1,73.58,1,1.3,6.19
+974,2023,2024-02-16,Sunrisers Hyderabad,Gujarat Titans,Bhuvneshwar Kumar,25,17,3,1,147.06,0,1.5,7.53
+975,2025,2021-11-06,Chennai Super Kings,Kolkata Knight Riders,Shivam Dube,14,52,3,0,26.92,1,1.6,5.42
+976,2025,2021-11-29,Punjab Kings,Rajasthan Royals,Jitesh Sharma,70,64,1,5,109.38,0,1.5,9.02
+977,2025,2022-10-11,Rajasthan Royals,Mumbai Indians,Shimron Hetmyer,6,28,0,1,21.43,1,2.3,7.43
+978,2024,2024-08-27,Royal Challengers Bangalore,Rajasthan Royals,Dinesh Karthik,66,36,6,1,183.33,0,2.9,12.49
+979,2022,2024-06-22,Chennai Super Kings,Mumbai Indians,Ruturaj Gaikwad,15,22,1,1,68.18,0,3.6,10.52
+980,2024,2022-06-25,Sunrisers Hyderabad,Punjab Kings,Abhishek Sharma,88,51,4,7,172.55,0,3.4,7.84
+981,2023,2021-04-07,Lucknow Super Giants,Delhi Capitals,Ravi Bishnoi,5,11,1,0,45.45,1,3.6,10.43
+982,2022,2022-04-19,Rajasthan Royals,Chennai Super Kings,Jos Buttler,29,26,2,0,111.54,0,2.3,5.36
+983,2023,2021-04-20,Chennai Super Kings,Kolkata Knight Riders,Deepak Chahar,45,43,7,0,104.65,0,1.7,6.03
+984,2021,2024-03-11,Lucknow Super Giants,Delhi Capitals,Nicholas Pooran,21,37,2,1,56.76,0,3.4,7.75
+985,2024,2024-12-19,Rajasthan Royals,Lucknow Super Giants,Yashasvi Jaiswal,32,36,5,2,88.89,0,2.1,10.6
+986,2025,2022-10-05,Lucknow Super Giants,Punjab Kings,KL Rahul,66,48,10,0,137.5,0,2.2,6.87
+987,2022,2022-08-14,Rajasthan Royals,Gujarat Titans,Sanju Samson,55,41,5,3,134.15,1,1.6,12.46
+988,2021,2024-03-15,Delhi Capitals,Lucknow Super Giants,Prithvi Shaw,16,16,4,0,100.0,1,2.2,8.37
+989,2023,2024-06-30,Delhi Capitals,Kolkata Knight Riders,Rishabh Pant,43,38,9,1,113.16,0,2.4,12.56
+990,2023,2024-01-17,Delhi Capitals,Chennai Super Kings,Rishabh Pant,87,64,2,7,135.94,0,2.6,7.4
+991,2025,2022-11-12,Royal Challengers Bangalore,Rajasthan Royals,Rajat Patidar,9,9,0,1,100.0,0,1.8,9.71
+992,2021,2023-08-30,Punjab Kings,Delhi Capitals,Shikhar Dhawan,42,27,0,0,155.56,0,2.1,7.35
+993,2025,2025-03-31,Gujarat Titans,Royal Challengers Bangalore,Shubman Gill,9,22,2,0,40.91,0,1.2,6.86
+994,2024,2024-10-26,Rajasthan Royals,Kolkata Knight Riders,Trent Boult,27,29,6,0,93.1,1,3.8,9.74
+995,2022,2023-01-21,Lucknow Super Giants,Sunrisers Hyderabad,Ravi Bishnoi,74,56,2,3,132.14,0,2.2,6.72
+996,2023,2024-10-08,Chennai Super Kings,Rajasthan Royals,Devon Conway,23,34,5,0,67.65,0,2.6,10.48
+997,2025,2023-08-24,Rajasthan Royals,Gujarat Titans,Yashasvi Jaiswal,53,34,6,4,155.88,0,2.7,12.48
+998,2024,2022-12-11,Chennai Super Kings,Kolkata Knight Riders,Devon Conway,31,55,7,0,56.36,0,2.6,9.5
+999,2023,2023-07-05,Mumbai Indians,Punjab Kings,Suryakumar Yadav,0,47,0,0,0.0,1,1.3,7.25
+1000,2021,2024-06-02,Rajasthan Royals,Chennai Super Kings,Yashasvi Jaiswal,42,35,0,1,120.0,1,3.0,10.82 
