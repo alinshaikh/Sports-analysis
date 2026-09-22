@@ -1,0 +1,21 @@
+venue_id,venue_name,city,state,capacity,established_year
+V001,Wankhede Stadium,Mumbai,Maharashtra,33000,1974
+V002,Brabourne Stadium,Mumbai,Maharashtra,20000,1937
+V003,DY Patil Stadium,Navi Mumbai,Maharashtra,55000,2008
+V004,MCA Stadium,Pune,Maharashtra,37000,2012
+V005,Dr DY Patil Stadium,Navi Mumbai,Maharashtra,55000,2008
+V006,Narendra Modi Stadium,Ahmedabad,Gujarat,132000,1982
+V007,Chepauk Stadium,Chennai,Tamil Nadu,50000,1916
+V008,Eden Gardens,Kolkata,West Bengal,68000,1864
+V009,Ekana Stadium,Lucknow,Uttar Pradesh,50000,2017
+V010,PCA Stadium,Mohali,Punjab,27000,1993
+V011,Chinnaswamy Stadium,Bengaluru,Karnataka,40000,1969
+V012,Rajiv Gandhi Stadium,Hyderabad,Telangana,39000,2004
+V013,Arun Jaitley Stadium,Delhi,Delhi,35000,1883
+V014,Jaipur Stadium,Jaipur,Rajasthan,30000,1961
+V015,Hyderabad Stadium,Hyderabad,Telangana,39000,2004
+V016,Mumbai Stadium,Mumbai,Maharashtra,45000,1975
+V017,Ahmedabad Stadium,Ahmedabad,Gujarat,50000,1982
+V018,Delhi Stadium,Delhi,Delhi,35000,1883
+V019,Chennai Stadium,Chennai,Tamil Nadu,50000,1916
+V020,Kolkata Stadium,Kolkata,West Bengal,68000,1864
