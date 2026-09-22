@@ -1,0 +1,101 @@
+player_id,player_name,team,role,batting_style,bowling_style,nationality,age
+UT001,Arjun Mehta,CSK,Batter,RHB,Right-arm medium,Indian,24
+UT002,Rohan Sharma,CSK,Batter,LHB,Right-arm offbreak,Indian,27
+UT003,Vivaan Kapoor,KKR,Batter,RHB,Legbreak,Indian,25
+UT004,Aditya Rao,KKR,All-Rounder,LHB,Right-arm medium,Indian,29
+UT005,Karan Malhotra,DC,Batter,RHB,Right-arm medium,Indian,23
+UT006,Rishabh Nair,DC,Batter,RHB,Right-arm offbreak,Indian,26
+UT007,Dev Patel,MI,Batter,LHB,Right-arm medium,Indian,28
+UT008,Aman Verma,MI,All-Rounder,RHB,Right-arm fast,Indian,30
+UT009,Harsh Vardhan,PBKS,Batter,RHB,Left-arm orthodox,Indian,24
+UT010,Nikhil Joshi,PBKS,Batter,LHB,Right-arm medium,Indian,27
+UT011,Sahil Khan,CSK,Batter,RHB,Right-arm offbreak,Indian,25
+UT012,Yash Thakur,CSK,All-Rounder,LHB,Right-arm medium,Indian,28
+UT013,Manav Shah,KKR,Batter,RHB,Right-arm fast,Indian,26
+UT014,Akshay Sinha,KKR,Batter,RHB,Legbreak,Indian,31
+UT015,Rajiv Menon,DC,Batter,LHB,Right-arm offbreak,Indian,29
+UT016,Varun Iyer,DC,All-Rounder,RHB,Right-arm medium,Indian,27
+UT017,Aniket Desai,MI,Batter,RHB,Left-arm orthodox,Indian,24
+UT018,Sameer Kulkarni,MI,Batter,LHB,Right-arm medium,Indian,26
+UT019,Pranav Bhat,PBKS,Batter,RHB,Right-arm offbreak,Indian,23
+UT020,Abhishek Yadav,PBKS,All-Rounder,LHB,Right-arm medium,Indian,30
+UT021,Vikram Singh,CSK,Bowler,RHB,Right-arm fast,Indian,28
+UT022,Deepak Rana,CSK,Bowler,RHB,Right-arm medium,Indian,25
+UT023,Mohit Chawla,CSK,Bowler,LHB,Left-arm fast,Indian,29
+UT024,Rajat Bansal,CSK,Bowler,RHB,Legbreak,Indian,26
+UT025,Siddharth Roy,KKR,Bowler,RHB,Right-arm fast,Indian,27
+UT026,Manish Dutta,KKR,Bowler,LHB,Left-arm orthodox,Indian,30
+UT027,Arnav Kapoor,KKR,Bowler,RHB,Right-arm medium,Indian,24
+UT028,Shreyas Bedi,KKR,Bowler,RHB,Right-arm offbreak,Indian,28
+UT029,Neeraj Tiwari,DC,Batter,RHB,Right-arm medium,Indian,25
+UT030,Ayush Mishra,DC,Batter,LHB,Right-arm offbreak,Indian,23
+UT031,Krish Malviya,DC,All-Rounder,RHB,Right-arm medium,Indian,27
+UT032,Rudra Sen,DC,Bowler,RHB,Right-arm fast,Indian,29
+UT033,Varun Deshmukh,MI,Batter,LHB,Right-arm medium,Indian,26
+UT034,Omkar Patil,MI,Batter,RHB,Legbreak,Indian,24
+UT035,Shivam Joshi,MI,All-Rounder,RHB,Right-arm fast,Indian,28
+UT036,Parth Trivedi,MI,Bowler,LHB,Left-arm orthodox,Indian,31
+UT037,Aarav Gupta,PBKS,Batter,RHB,Right-arm medium,Indian,22
+UT038,Ritvik Anand,PBKS,Batter,LHB,Right-arm offbreak,Indian,25
+UT039,Devansh Sethi,PBKS,All-Rounder,RHB,Right-arm medium,Indian,29
+UT040,Harshit Arora,PBKS,Bowler,RHB,Right-arm fast,Indian,27
+UT041,Ishaan Batra,CSK,Batter,RHB,Right-arm offbreak,Indian,24
+UT042,Reyansh Nanda,CSK,Batter,LHB,Right-arm medium,Indian,26
+UT043,Atharv Jain,CSK,All-Rounder,RHB,Right-arm fast,Indian,30
+UT044,Kabir Ahuja,CSK,Bowler,RHB,Legbreak,Indian,28
+UT045,Vihaan Mehra,KKR,Batter,RHB,Right-arm medium,Indian,23
+UT046,Dhruv Arora,KKR,Batter,LHB,Left-arm orthodox,Indian,25
+UT047,Anshul Gupta,KKR,All-Rounder,RHB,Right-arm offbreak,Indian,29
+UT048,Raghav Bhatia,KKR,Bowler,RHB,Right-arm fast,Indian,27
+UT049,Yuvan Sood,DC,Batter,RHB,Right-arm medium,Indian,24
+UT050,Arjun Saini,DC,Batter,LHB,Right-arm offbreak,Indian,28
+UT051,Rehan Kapoor,DC,All-Rounder,RHB,Right-arm medium,Indian,26
+UT052,Manan Rawat,DC,Bowler,RHB,Left-arm fast,Indian,30
+UT053,Aadi Kulkarni,MI,Batter,RHB,Right-arm medium,Indian,23
+UT054,Krishiv Shah,MI,Batter,LHB,Right-arm offbreak,Indian,25
+UT055,Parth Mehta,MI,All-Rounder,RHB,Right-arm fast,Indian,29
+UT056,Advik Joshi,MI,Bowler,RHB,Legbreak,Indian,27
+UT057,Armaan Gill,PBKS,Batter,RHB,Right-arm medium,Indian,24
+UT058,Veer Singh,PBKS,Batter,LHB,Left-arm orthodox,Indian,26
+UT059,Shlok Verma,PBKS,All-Rounder,RHB,Right-arm offbreak,Indian,28
+UT060,Aryan Nair,PBKS,Bowler,RHB,Right-arm fast,Indian,31
+UT061,Devraj Singh,CSK,Bowler,RHB,Right-arm fast,Indian,27
+UT062,Abhinav Rao,CSK,Bowler,LHB,Left-arm orthodox,Indian,25
+UT063,Ronit Sharma,CSK,Bowler,RHB,Right-arm medium,Indian,29
+UT064,Ayush Raj,CSK,Bowler,RHB,Legbreak,Indian,26
+UT065,Krishan Yadav,KKR,Bowler,RHB,Right-arm fast,Indian,28
+UT066,Nakul Bansal,KKR,Bowler,LHB,Left-arm medium,Indian,30
+UT067,Shantanu Roy,KKR,Batter,RHB,Right-arm medium,Indian,24
+UT068,Anmol Sethi,KKR,Batter,LHB,Right-arm offbreak,Indian,27
+UT069,Harshil Shah,DC,Batter,RHB,Right-arm medium,Indian,25
+UT070,Ronit Mehra,DC,Batter,RHB,Legbreak,Indian,29
+UT071,Pratham Jain,DC,Bowler,RHB,Right-arm fast,Indian,26
+UT072,Aditya Nair,DC,Bowler,LHB,Left-arm orthodox,Indian,28
+UT073,Shivansh Rao,MI,Batter,RHB,Right-arm medium,Indian,23
+UT074,Aryan Kapoor,MI,Batter,LHB,Right-arm offbreak,Indian,25
+UT075,Manav Patel,MI,All-Rounder,RHB,Right-arm fast,Indian,30
+UT076,Devansh Shah,MI,Bowler,RHB,Legbreak,Indian,27
+UT077,Ritvik Saini,PBKS,Batter,RHB,Right-arm medium,Indian,24
+UT078,Yash Malhotra,PBKS,Batter,LHB,Left-arm orthodox,Indian,26
+UT079,Kunal Verma,PBKS,All-Rounder,RHB,Right-arm offbreak,Indian,29
+UT080,Rohan Bhat,PBKS,Bowler,RHB,Right-arm fast,Indian,28
+UT081,Akash Mehta,CSK,Batter,RHB,Right-arm medium,Indian,25
+UT082,Viraj Sharma,CSK,Batter,LHB,Right-arm offbreak,Indian,27
+UT083,Aryan Desai,CSK,All-Rounder,RHB,Right-arm fast,Indian,31
+UT084,Nishant Rao,CSK,Bowler,RHB,Legbreak,Indian,26
+UT085,Raghav Joshi,KKR,Batter,RHB,Right-arm medium,Indian,24
+UT086,Dev Malik,KKR,Batter,LHB,Left-arm orthodox,Indian,28
+UT087,Arnav Shah,KKR,All-Rounder,RHB,Right-arm offbreak,Indian,27
+UT088,Parth Sinha,KKR,Bowler,RHB,Right-arm fast,Indian,30
+UT089,Vihaan Patel,DC,Batter,RHB,Right-arm medium,Indian,23
+UT090,Reyansh Kumar,DC,Batter,LHB,Right-arm offbreak,Indian,26
+UT091,Atharv Mehta,DC,All-Rounder,RHB,Right-arm fast,Indian,29
+UT092,Kabir Sharma,DC,Bowler,RHB,Left-arm orthodox,Indian,25
+UT093,Ansh Verma,MI,Batter,RHB,Right-arm medium,Indian,24
+UT094,Shrey Malhotra,MI,Batter,LHB,Right-arm offbreak,Indian,27
+UT095,Manan Shah,MI,All-Rounder,RHB,Right-arm fast,Indian,30
+UT096,Rudra Patel,MI,Bowler,RHB,Legbreak,Indian,28
+UT097,Armaan Rao,PBKS,Batter,RHB,Right-arm medium,Indian,25
+UT098,Rehan Desai,PBKS,Batter,LHB,Left-arm orthodox,Indian,27
+UT099,Shlok Mehta,PBKS,All-Rounder,RHB,Right-arm offbreak,Indian,29
+UT100,Aarav Sharma,PBKS,Bowler,RHB,Right-arm fast,Indian,26
