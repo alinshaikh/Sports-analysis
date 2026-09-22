@@ -1,0 +1,11 @@
+team_id,team_name,short_name,city,home_venue,founded_year
+T001,Chennai Super Kings,CSK,Chennai,Chepauk Stadium,2008
+T002,Kolkata Knight Riders,KKR,Kolkata,Eden Gardens,2008
+T003,Delhi Capitals,DC,Delhi,Arun Jaitley Stadium,2008
+T004,Mumbai Indians,MI,Mumbai,Wankhede Stadium,2008
+T005,Punjab Kings,PBKS,Mohali,PCA Stadium,2008
+T006,Royal Challengers Bangalore,RCB,Bengaluru,Chinnaswamy Stadium,2008
+T007,Gujarat Titans,GT,Ahmedabad,Narendra Modi Stadium,2022
+T008,Lucknow Super Giants,LSG,Lucknow,Ekana Stadium,2022
+T009,Sunrisers Hyderabad,SRH,Hyderabad,Rajiv Gandhi Stadium,2013
+T010,Rajasthan Royals,RR,Jaipur,Jaipur Stadium,2008
